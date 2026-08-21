@@ -192,6 +192,33 @@ entered real crag before a second.
 
 ## Wave 2 — content writing (one–two agents at a time)
 
-### 11. Part I content writer (T-or-C pages) — in flight
+### 11. Part I content writer (T-or-C pages) — completed
+Wrote content/torc/: rewritten _index.md plus mud-mountain,
+caballo-lake-bat-cave, percha-creek, luna-park, red-rock-arroyo,
+further-leads. Spec fields only where research supports them; route
+tables list confirmed MP names/IDs with Grade/Stars honestly "—
+pending fieldwork"; history covers the Pletta/Baltz/Teague Bat Cave
+era and 2008/09 revival; mine-claim caution on both index and Bat
+Cave pages; further-leads frames Palomas Gap, Turtleback, Elephant
+Butte, Kingston, Derry, Hatch and bouldering as unconfirmed leads.
+Build passed (7 pages, 8 sections).
+
+### 12. Orchestrator gap-fill search pass (main session) — completed
+The search budget replenished mid-session, so the orchestrator ran
+~12 targeted searches directly; findings in
+`research/torc/gap-fill-2026-08-21.md`. Mud Mountain: four walls
+(Winter 19 routes 5.8–5.12 south-facing with December shade beta,
+Crow Feather 13, Vacation 7, Yellow 2) plus full odometer approach.
+Bat Cave Area structure: The Bat Cave (~100 ft cavern, 30-ft ladder,
+Helsinki 5.14d / Titanoboa 5.13d), Grey Wall = Super Hero Wall
+(Super Hero 5.10-/5.11), Gotham City, High Camp wall, Trojan Wall,
+Tufa Wall + approach. Luna Park: Todaluna 5.9, Lunatique 5.10+,
+Wolfman 5.9; three-site USFS campground; FR 225 access; season.
+Percha Creek: three named routes; access status unknown, permission
+being sought. Negatives: no documented climbing at Palomas Gap,
+Turtleback (trail closed indefinitely May 2026) or Elephant Butte.
+
+### 13. Part I merge editor — in flight
+### 14. Lander re-research — in flight
 
 *(Log updated as agents report.)*
