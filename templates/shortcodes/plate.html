@@ -1,0 +1,13 @@
+{# A reserved illustration plate: the frame waits for a hand-drawn map or a
+   photograph. Usage: {{/* plate(caption="Palomas Gap — overview map") */}} #}
+<figure class="plate">
+    <div class="plate-frame" role="img" aria-label="Reserved plate{% if caption %}: {{ caption }}{% endif %}">
+        <svg viewBox="0 0 80 56" width="80" height="56" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1">
+            <path d="M8 44 L 26 20 L 38 34 L 48 24 L 72 44" />
+            <circle cx="58" cy="14" r="4"/>
+            <path d="M8 44 h 64" stroke-width="1.4"/>
+        </svg>
+        <p>Plate reserved<span> — hand-drawn map &amp; photographs to come</span></p>
+    </div>
+    {% if caption %}<figcaption>{{ caption }}</figcaption>{% endif %}
+</figure>

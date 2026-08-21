@@ -4,23 +4,83 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ config.title }}</title>
-    <meta name="description" content="{{ config.description }}">
+    {%- if page %}
+        {%- set current_title = page.title ~ " · " ~ config.title -%}
+        {%- set current_desc = page.description | default(value=config.description) -%}
+        {%- set current_url = page.permalink -%}
+    {%- elif section %}
+        {%- if section.path == "/" -%}
+            {%- set current_title = config.title -%}
+        {%- else -%}
+            {%- set current_title = section.title ~ " · " ~ config.title -%}
+        {%- endif -%}
+        {%- set current_desc = section.description | default(value=config.description) -%}
+        {%- set current_url = section.permalink -%}
+    {%- else %}
+        {%- set current_title = config.title -%}
+        {%- set current_desc = config.description -%}
+        {%- set current_url = config.base_url ~ "/" -%}
+    {%- endif %}
+
+    <title>{{ current_title }}</title>
+    <meta name="description" content="{{ current_desc }}">
     <meta name="author" content="{{ config.extra.author }}">
     <meta name="robots" content="index, follow">
 
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="{{ config.title }}">
-    <meta property="og:title" content="{{ config.title }}">
-    <meta property="og:description" content="{{ config.description }}">
-    <meta property="og:url" content="{{ config.base_url | safe }}/">
-    <link rel="canonical" href="{{ config.base_url | safe }}/">
+    <meta property="og:title" content="{{ current_title }}">
+    <meta property="og:description" content="{{ current_desc }}">
+    <meta property="og:url" content="{{ current_url | safe }}">
+    <link rel="canonical" href="{{ current_url | safe }}">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap">
 
     {# Root-relative, not get_url(): an absolute base_url whose certificate is
        not yet provisioned would otherwise serve the page unstyled. #}
     <link rel="stylesheet" href="/style.css">
 </head>
 <body>
+    <a class="skip" href="#main">Skip to content</a>
+
+    {% block masthead %}
+    <header class="masthead">
+        <div class="masthead-inner">
+            <a class="wordmark" href="/">Climbing <span class="amp">Truth&nbsp;or&nbsp;Consequences</span></a>
+            <svg class="vine" viewBox="0 0 600 16" preserveAspectRatio="none" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1">
+                <path d="M0 8 C 40 -2, 80 18, 120 8 S 200 -2, 240 8 S 320 18, 360 8 S 440 -2, 480 8 S 560 18, 600 8"/>
+                <circle cx="120" cy="8" r="2" fill="currentColor" stroke="none"/>
+                <circle cx="360" cy="8" r="2" fill="currentColor" stroke="none"/>
+            </svg>
+        </div>
+        <nav class="siteroll" aria-label="Site">
+            <a href="/torc/">Truth or Consequences</a>
+            <a href="/corridor/">The Corridor</a>
+            <a href="/gazetteer/">Gazetteer</a>
+            <a href="/guide/">Using this Guide</a>
+        </nav>
+    </header>
+    {% endblock masthead %}
+
+    <main id="main">
     {% block content %}{% endblock content %}
+    </main>
+
+    {% block footer %}
+    <footer class="colophon">
+        <svg class="vine" viewBox="0 0 600 16" preserveAspectRatio="none" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1">
+            <path d="M0 8 C 40 18, 80 -2, 120 8 S 200 18, 240 8 S 320 -2, 360 8 S 440 18, 480 8 S 560 -2, 600 8"/>
+        </svg>
+        <p class="colophon-title">Climbing Truth or Consequences</p>
+        <p>A guidebook in progress — the rock of Sierra County, New Mexico, and the
+           moderate classics of the Rockies from the Rio Grande to the Missouri.</p>
+        <p class="colophon-warn">Climbing is dangerous. This guide is a scaffold under
+           construction: grades, gear and access notes are unverified until stated
+           otherwise. Check current conditions and closures before you go.</p>
+        <p><a href="mailto:hello@climbingtruthorconsequences.com">hello@climbingtruthorconsequences.com</a></p>
+    </footer>
+    {% endblock footer %}
 </body>
 </html>

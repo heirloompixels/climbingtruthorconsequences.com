@@ -1,15 +1,35 @@
 {% extends "base.html" %}
+{% import "macros.html" as m %}
+
+{% block masthead %}{% endblock masthead %}
 
 {% block content %}
-<main class="landing">
-    <div class="inner">
+<div class="cover">
+    <div class="cover-frame">
         <p class="place">{{ section.extra.place }}</p>
-        <h1>{{ section.title }}</h1>
-        <p class="lead">{{ section.extra.lead }}</p>
+
+        <h1 class="cover-title">Climbing<br>Truth <span class="amp">or</span> Consequences</h1>
+
+        {{ m::rose_divider() }}
+
+        <p class="cover-sub">{{ section.extra.lead }}</p>
+
+        <nav class="cover-contents" aria-label="Contents">
+            <p class="contents-label">Contents</p>
+            <ol>
+                <li><a href="/torc/"><span class="c-num">I.</span> <span class="c-name">Truth or Consequences</span> <span class="c-desc">the home rock — Sierra County, New Mexico</span></a></li>
+                <li><a href="/corridor/"><span class="c-num">II.</span> <span class="c-name">The Corridor</span> <span class="c-desc">chosen moderate classics, Rio Grande to the Missouri</span></a></li>
+                <li><a href="/gazetteer/"><span class="c-num">III.</span> <span class="c-name">The Gazetteer</span> <span class="c-desc">every climbing area from New Mexico to Montana</span></a></li>
+                <li><a href="/guide/"><span class="c-num">IV.</span> <span class="c-name">Using this Guide</span> <span class="c-desc">grades, symbols, sources &amp; caveats</span></a></li>
+            </ol>
+        </nav>
+
+        {{ m::tailpiece() }}
+
         <p class="status">{{ section.extra.status }}</p>
-        <p class="contact">
-            <a href="mailto:{{ section.extra.contact }}">{{ section.extra.contact }}</a>
-        </p>
+        <p class="contact"><a href="mailto:{{ section.extra.contact }}">{{ section.extra.contact }}</a></p>
     </div>
-</main>
+</div>
 {% endblock content %}
+
+{% block footer %}{% endblock footer %}
