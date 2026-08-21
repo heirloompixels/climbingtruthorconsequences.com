@@ -219,6 +219,24 @@ being sought. Negatives: no documented climbing at Palomas Gap,
 Turtleback (trail closed indefinitely May 2026) or Elephant Butte.
 
 ### 13. Part I merge editor — in flight
-### 14. Lander re-research — in flight
+### 14. Lander re-research — completed
+Rewrote `research/featured/lander.md` to full depth. Confirmed: Todd
+Skinner & Amy Whistler/Skinner move to Lander 1989–90, Wild Iris
+development (Madison Group dolomite), Wild Iris Mountain Sports
+founded 1990, International Climbers' Festival early 1990s (1993 per
+most sources, 1994 in one — flagged), NOLS headquarters. Sectors:
+Sinks Canyon's three rock zones with sub-sectors (Killer Cave, Scud
+Wall, The Wilds, The Joint, The ZoZone, Hardware Wall…); Wild Iris
+(Main Wall, OK Corral, Rode Hard Wall, The Erratic, Wolf Point, Lower
+Remuda); Fossil Hill (Central/West/Hideout, raptor closure ~Jun 9–Aug
+15); Sweat Lodge (Little Popo Agie, discovered 2010). Camping: Lander
+City Park free 3-night max; Wild Iris CG $10/night since July 2024.
+Guidebook: Bechtel *Lander Rock Climbs*, 2001→2023 editions, Climb
+Strong, ~1,700 routes (author-credit discrepancy flagged). Moderates
+table: 13 verified routes with grades/sectors (La Vaca Peligrosa 5.8,
+Claim Jumper 5.10c, Easy Ridin' 5.10d, Frogger 5.8, Earth
+A.D./Sandman/Candy Man at The Wilds…); Charro (5.12b) and Gored by
+Inosine (5.12c/d) excluded as too hard; three routes flagged
+sector-unconfirmed.
 
 *(Log updated as agents report.)*
