@@ -261,4 +261,13 @@ plainly where real (Bridgers 3 routes; Avalanche Gulch ungraded named
 routes; WSS no moderates table at all). Build clean: 17 pages, 8
 sections, 0 orphans.
 
+### 16. Part III content writer (Gazetteer pages) — completed
+Wrote the four state pages under content/gazetteer/: New Mexico (26
+area rows, 7 regions, dedicated Shiprock/tribal-lands section),
+Colorado (54 rows, 6 regions, dedicated Royal Gorge do-not-climb
+section), Wyoming (32 rows, 12 tables), Montana (31 rows, 11
+regions). All unverified flags carried through; access warnings
+preserved; Guidebooks sections note unverified citations. Build
+clean: 18 pages, 8 sections.
+
 *(Log updated as agents report.)*
