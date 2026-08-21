@@ -249,4 +249,16 @@ A.D./Sandman/Candy Man at The Wilds…); Charro (5.12b) and Gored by
 Inosine (5.12c/d) excluded as too hard; three routes flagged
 sector-unconfirmed.
 
+### 15. Part II content writer (Corridor pages) — completed
+Wrote seven crag pages under content/corridor/ (Tres Piedras;
+Independence Pass with a dedicated Monitor Rock section; Ten Sleep;
+Lander with the 13-route moderates table; Bridgers; Avalanche Gulch;
+"White Sulphur Springs & the Castles") plus intro paragraphs on the
+four state indexes. Each follows the Penitente exemplar: spec extras
+only where supported, one plate, Chosen moderates in YDS, Season &
+logistics, The book to buy, italic sources note. Thinness stated
+plainly where real (Bridgers 3 routes; Avalanche Gulch ungraded named
+routes; WSS no moderates table at all). Build clean: 17 pages, 8
+sections, 0 orphans.
+
 *(Log updated as agents report.)*
