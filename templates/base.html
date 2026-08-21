@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ config.default_language }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ config.title }}</title>
+    <meta name="description" content="{{ config.description }}">
+    <meta name="author" content="{{ config.extra.author }}">
+    <meta name="robots" content="index, follow">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ config.title }}">
+    <meta property="og:title" content="{{ config.title }}">
+    <meta property="og:description" content="{{ config.description }}">
+    <meta property="og:url" content="{{ config.base_url | safe }}/">
+    <link rel="canonical" href="{{ config.base_url | safe }}/">
+
+    {# Root-relative, not get_url(): an absolute base_url whose certificate is
+       not yet provisioned would otherwise serve the page unstyled. #}
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    {% block content %}{% endblock content %}
+</body>
+</html>

@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main class="landing">
+    <div class="inner">
+        <p class="place">{{ section.extra.place }}</p>
+        <h1>{{ section.title }}</h1>
+        <p class="lead">{{ section.extra.lead }}</p>
+        <p class="status">{{ section.extra.status }}</p>
+        <p class="contact">
+            <a href="mailto:{{ section.extra.contact }}">{{ section.extra.contact }}</a>
+        </p>
+    </div>
+</main>
+{% endblock content %}

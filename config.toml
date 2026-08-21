@@ -1,0 +1,24 @@
+base_url = "https://climbingtruthorconsequences.com"
+title = "Climbing Truth or Consequences"
+description = "Climbing in and around Truth or Consequences, New Mexico."
+compile_sass = false
+minify_html = false
+default_language = "en"
+build_search_index = false
+
+taxonomies = []
+
+[slugify]
+paths = "on"
+anchors = "on"
+
+[markdown]
+render_emoji = false
+external_links_target_blank = true
+smart_punctuation = true
+
+[link_checker]
+internal_level = "warn"
+
+[extra]
+author = "Kyle Parker Cunningham"

@@ -1,0 +1,107 @@
+/* Climbing Truth or Consequences — landing page.
+   One page, no JavaScript, no web fonts. Colours are the Rio Grande
+   corridor at the end of the day: sand, shadow, and the red of the
+   Caballos across the river. */
+
+:root {
+    --sand:    #efe6d8;
+    --ink:     #2a2018;
+    --muted:   #6f6152;
+    --rule:    #d6c8b4;
+    --accent:  #9a3b26;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --sand:  #17120e;
+        --ink:   #ece2d4;
+        --muted: #9b8c7a;
+        --rule:  #382c22;
+        --accent:#d4744f;
+    }
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--sand);
+    color: var(--ink);
+    font-family: ui-serif, Georgia, "Iowan Old Style", "Times New Roman", serif;
+    font-size: 18px;
+    line-height: 1.55;
+}
+
+.landing {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 1.5rem;
+}
+
+.inner {
+    max-width: 34rem;
+    width: 100%;
+    /* A flex item will not shrink below its min-content width, and the
+       contact address is one unbreakable 37-character token. Without
+       both of these a narrow phone pushes the whole column off-screen. */
+    min-width: 0;
+    overflow-wrap: anywhere;
+}
+
+.place {
+    margin: 0 0 1.75rem;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+h1 {
+    margin: 0 0 1.5rem;
+    font-size: clamp(2.2rem, 9vw, 3.6rem);
+    font-weight: 400;
+    line-height: 1.05;
+    letter-spacing: -0.015em;
+    text-wrap: balance;
+}
+
+.lead {
+    margin: 0 0 2.5rem;
+    font-size: 1.1rem;
+    color: var(--muted);
+    text-wrap: pretty;
+}
+
+.status {
+    margin: 0 0 0.65rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--rule);
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace;
+    font-size: 0.8rem;
+    letter-spacing: 0.06em;
+    color: var(--accent);
+}
+
+.contact {
+    margin: 0;
+    font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, monospace;
+    font-size: 0.8rem;
+    color: var(--muted);
+}
+
+a {
+    color: inherit;
+    text-decoration-color: var(--rule);
+    text-underline-offset: 0.25em;
+}
+
+a:hover, a:focus-visible {
+    color: var(--accent);
+    text-decoration-color: currentColor;
+}
