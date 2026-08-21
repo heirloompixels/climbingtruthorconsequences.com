@@ -66,15 +66,25 @@ what's coming.
 - [x] Research: Tres Piedras, Independence Pass, Penitente Canyon,
       Bridgers, Avalanche Gulch, White Sulphur Springs
 - [x] Research: censuses for NM, WY, MT
-- [ ] Research in flight: T-or-C deep dive, Ten Sleep, Lander,
-      Colorado census, design brief
-- [ ] Agent-findings log (`research/agent-log.md`), kept current
-- [ ] Targeted follow-up searches on the thinnest route tables
-      (one–two agents at a time)
-- [ ] Write Part I content pages (T-or-C: area → crag → routes)
-- [ ] Write Part II content pages (eight corridor areas)
-- [ ] Write Part III content pages (four state gazetteers)
-- [ ] Final pass: build, internal links, prose polish, push
+- [x] Research: T-or-C deep dive, Ten Sleep, Lander (rewritten to
+      full depth), Colorado census, design brief
+- [x] Agent-findings log (`research/agent-log.md`), kept current
+- [x] Targeted follow-up searches: T-or-C gap-fill pass (walls,
+      sectors, approaches, Luna Park routes, Percha access caution)
+- [x] Part I content pages (T-or-C: intro + six crag pages +
+      further-leads)
+- [x] Part II content pages (eight corridor areas + state intros)
+- [x] Part III content pages (four state gazetteers, 143 area rows)
+- [x] Final pass: clean build, spec-card layout fix, screenshot
+      review of cover, chapter, crag, and census pages
+
+### Next round (future sessions)
+
+- [ ] Route-level detail for T-or-C (full Winter Wall / Bat Cave
+      lists) once search budget or direct MP access allows
+- [ ] Route-per-page + grade/style taxonomies when fieldwork data
+      lands
+- [ ] Prose polish pass with the authors' own voice and stories
 
 ## Adopted from the design brief (`research/design-brief.md`)
 

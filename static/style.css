@@ -291,13 +291,13 @@ a:hover, a:focus-visible {
     padding: 1rem 1.2rem;
     border-top: 3px solid var(--ink);
     border-bottom: 1px solid var(--ink);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.7rem 2rem;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    gap: 0.8rem 2rem;
+    text-align: left;
     background: var(--paper-raised);
 }
-.spec > div { min-width: 7rem; }
+.spec > div { min-width: 0; }
 .spec dt {
     font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
     font-weight: 600;
