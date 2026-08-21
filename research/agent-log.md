@@ -165,6 +165,33 @@ currently offline. Leads never searched are tagged NEVER CHECKED, not
 recorded as negatives (Palomas Gap, Turtleback, Elephant Butte,
 Kingston, bouldering, guidebooks…). Best unread source: "Truth
 and/or Consequences" (Climb Abroad, 2017).
-### 10. Design brief (guidebook patterns + Beardsley) — in flight
+### 10. Design brief (guidebook patterns + Beardsley) — completed
+Wrote `research/design-brief.md` (~13 sections; claims marked
+[verified] vs [from familiarity] because the search budget died four
+queries in). Information architecture: Region → Area → Crag → Route
+with an optional Sector; type every node (`extra.kind` drives the
+template); a node holds children or routes, never both. Routes as
+their own pages would let Zola taxonomies generate `/grade/5.10/`,
+`/style/trad/` filter pages with zero JavaScript. Route `weight`
+sorts left-to-right as you face the rock; stars are editorial, not
+voted. Adopt Mountain Project's Description/Location/Protection
+headings verbatim. Highest-value component: the "condition strip"
+(aspect · sun · season · approach · vehicle) under the crag title.
+Beardsley: he drew for the photomechanical line block — pure black,
+pure paper, no grey; the web is the same medium. Two accents with one
+job each: Yellow Book ochre for ornament (<5% of any page), Caballo
+red reserved for closures and R/X only. Three-tier ornament budget
+(frontispiece spends everything; chapter pages one corner piece and a
+divider; route/index pages stars and hairlines only) — the gradient
+from ornate to bare IS the design. Ornament as inline SVG macros,
+fill=currentColor, filled paths not strokes. Plates: numbered,
+captioned, framed; an empty plate reads as a book awaiting its
+engraving. Table numerals: `font-variant-numeric: lining-nums
+tabular-nums`. Build order: tokens and macros first, then one fully
+entered real crag before a second.
+
+## Wave 2 — content writing (one–two agents at a time)
+
+### 11. Part I content writer (T-or-C pages) — in flight
 
 *(Log updated as agents report.)*

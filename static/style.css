@@ -411,6 +411,7 @@ a:hover, a:focus-visible {
     vertical-align: top;
     border-bottom: 1px solid var(--rule);
     padding: 0.45rem 0.7rem 0.45rem 0;
+    font-variant-numeric: lining-nums tabular-nums;
 }
 .prose tbody tr:last-child td { border-bottom: 2px solid var(--ink); }
 

@@ -76,6 +76,18 @@ what's coming.
 - [ ] Write Part III content pages (four state gazetteers)
 - [ ] Final pass: build, internal links, prose polish, push
 
+## Adopted from the design brief (`research/design-brief.md`)
+
+- Table numerals: lining + tabular (done in CSS).
+- Accent discipline: ochre for ornament only; reserve the Caballo red
+  for closures and R/X hazard notes.
+- Ornament budget by tier: frontispiece rich → chapter head modest →
+  data pages bare.
+- **Deferred until real route data lands:** route-per-page with Zola
+  taxonomies (`/grade/…`, `/style/…` filter pages, no JS). The brief
+  is right that this is the win, but stub route pages with empty
+  grades would be noise today. Revisit after T-or-C fieldwork.
+
 ## Later (author's work / future sessions)
 
 - Hand-drawn maps and topos into the reserved plates
