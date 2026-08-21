@@ -140,7 +140,31 @@ confirmed titles (Rossiter; Rifle guides by Krol and
 Pegg/Sbarra/Achey/Adams; Shelf Road Rock by Thompson; Benningfield
 bouldering guides).
 
-### 9. Truth or Consequences deep dive — in flight
+### 9. Truth or Consequences deep dive — completed
+Wrote seven files to `research/torc/`: `overview.md` (geography,
+geology, seasons, history, land management, full MP area tree, master
+route index, research-status, bibliography with every URL tagged
+[read] or [blocked]), crag files for Mud Mountain, Caballo Lake / Bat
+Cave, Percha Creek, Luna Park, Red Rock Arroyo, and
+`unverified-leads.md`. Confirmed: a real T-or-C scene under Mountain
+Project's "Truth or Consequences Area" (108351201) — Mud Mountain
+(limestone sport, 4 walls, 5.8–5.12, routes carry name-and-grade
+plaques), Caballo Lake / Bat Cave (limestone 100–300 ft, sport single
+& multi-pitch, 5.6–5.13; early mixed routes by Bryan Pletta / Dave
+Baltz / Doug Teague, revived winter 2008/09 by Timmy Fairfield, John
+Kear, Marc Beverly, Lance Hadfield; mine-claim access warning),
+Percha Creek (andesite crack + bolted face, Hillsboro), Luna Park
+(volcanic moderate sport), Red Rock Arroyo. Nine route pages
+confirmed by name + MP ID (Super Hero, New Beginning, Club Med, Left,
+Luna Barr, Zero Gravity, Clever Lunar-Themed Route Name, Man in the
+Moon, Giant Leap) with ZERO attributes retrievable — grades, stars,
+lengths, FAs, GPS all blank rather than guessed. Hard blockers: the
+egress proxy (only raw.githubusercontent.com reachable), the search
+budget exhausted six searches in, and OpenBeta's CC0 data mirror
+currently offline. Leads never searched are tagged NEVER CHECKED, not
+recorded as negatives (Palomas Gap, Turtleback, Elephant Butte,
+Kingston, bouldering, guidebooks…). Best unread source: "Truth
+and/or Consequences" (Climb Abroad, 2017).
 ### 10. Design brief (guidebook patterns + Beardsley) — in flight
 
 *(Log updated as agents report.)*
