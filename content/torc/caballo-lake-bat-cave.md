@@ -21,12 +21,30 @@ three hundred, quality that Mountain Project itself calls honest:
 great in places, "pretty bad onion skin" in others. The centerpiece is
 **the Bat Cave**, a genuinely spectacular formation starting about
 thirty feet up the wall, roughly a hundred feet tall, capped by a
-triangular roof as deep as thirty feet. Three more sectors share the
-area — Gotham City, Grey Wall, and Stuff Left of the Cave — and the
-Bat Cave Area is described as only the currently developed part of a
-larger Caballo Lake holding, which is a lead worth pulling on its own.
+triangular roof as deep as thirty feet — reached by climbing a 30-foot
+ladder from the base of the wall. Five more named sectors share the
+area — Grey Wall (also called Super Hero Wall), Gotham City, High
+Camp, Trojan Wall and Tufa Wall — and the Bat Cave Area is described as
+only the currently developed part of a larger Caballo Lake holding,
+which is a lead worth pulling on its own.
 
 {{ plate(caption="Caballo Lake & the Bat Cave Area — overview map") }}
+
+## Sectors
+
+Six named areas fan out from the lake. **The Bat Cave** itself holds
+the crag's serious testpieces — **Helsinki** (5.14d) and **Titanoboa**
+(5.13d), though sources split on the spelling ("Titanaboa" also
+appears, and we have not resolved which is correct). **Grey Wall**,
+also known as **Super Hero Wall**, sits nearby and carries the
+moderate classic *Super Hero* along with *Gotham's Finest*. **Gotham
+City** lies beyond the end of the road, past **High Camp** — a short
+70–80 foot yellow-and-orange wall directly above the upper parking
+area, which lends the sector its name. **Trojan Wall** stands to the
+right of the Bat Cave. **Tufa Wall** is reached on its own: park at
+the "T" 1.9 miles up the 4x4 road, walk or drive another 0.1 miles east
+to High Camp, then take the right-hand branch trail up a set of steps
+and a rising traverse.
 
 ## History
 
@@ -40,6 +58,15 @@ others, returned and built out the sport routing that defines the
 place today. Fairfield and Beverly in particular are known quantities
 in New Mexico climbing; either would likely have the full 2008/09
 route list first-hand.
+
+A 2017 trip report on the Climb Abroad blog adds color worth carrying
+as anecdote rather than fact: locals told the author the area was
+developed largely by the owner of an Albuquerque climbing gym, who
+bolted most of the routes to be friendly to beginners and older
+climbers. The same account describes the drive in as past local farms,
+through a tunnel under the dam, and up a twisty dirt road — consistent
+with what little we already had on the approach, but not yet a
+substitute for a turn-by-turn of our own.
 
 ## Approach & access
 
@@ -57,14 +84,20 @@ Dispersed camping is available at the site.
 
 | Route | Grade | Stars | Notes |
 |---|---|---|---|
-| [Super Hero](https://www.mountainproject.com/route/106636759/super-hero) | — | — | Area assignment unconfirmed; pending fieldwork. |
+| [Super Hero](https://www.mountainproject.com/route/106636759/super-hero) | 5.10-/5.11 | — | Grey Wall (Super Hero Wall); 5.10- to the first anchor, 5.11 if you climb through to the top. Third route from the left end of the wall. |
+| [Gotham's Finest](https://www.mountainproject.com/route/106627930/gothams-finest) | — | — | Grey Wall (Super Hero Wall). |
+| [Gambit](https://www.mountainproject.com/route/120613110/gambit) | — | — | A continuation of an unnamed 5.10a, into a large left-facing corner. Mountain Project files it under the broader Truth or Consequences tree rather than a named sector — but its own description references Super Hero Wall, which points here, to Grey Wall, rather than to Mud Mountain. Genuinely ambiguous; we note both rather than asserting either. |
+| [Zero Gravity](https://www.mountainproject.com/route/108038408/zero-gravity) | — | — | Starts left of Astrobunnies, somewhere in the Bat Cave area — exact sector unverified. Earlier notes had placed this route at Luna Park; the fuller record points here instead. |
 
-A crag spanning 5.6 to 5.13 across four sectors has far more than one
-route on it — the rest awaits our own visit to the Bat Cave Area pages.
+A crag spanning 5.6 to 5.13 across six sectors has far more than four
+routes on it — the rest awaits our own visit to the Bat Cave Area pages.
 
 ---
 
 *Researched from Mountain Project search summaries, not a direct page
 fetch (full sources and caveats in the repository's
-`research/torc/caballo-lake-bat-cave.md`); route list, stars, GPS
-coordinates and the mine-claim boundary all pending fieldwork.*
+`research/torc/caballo-lake-bat-cave.md` and
+`research/torc/gap-fill-2026-08-21.md`); the sector layout and a few
+marquee grades are now confirmed, but the full route list, star
+ratings, GPS coordinates and the mine-claim boundary remain pending
+fieldwork.*

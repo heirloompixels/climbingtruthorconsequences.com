@@ -17,13 +17,22 @@ Treat every name below as a lead, not a listing.
 
 ## Places to check
 
-**Palomas Gap**, **Turtleback Mountain** — the landmark peak standing
-directly over both TorC and Elephant Butte — **Elephant Butte** itself,
+Three names have now been searched, with a negative result worth
+recording rather than dropping. **Palomas Gap** turns up only a
+hiking/4x4 pass through the Caballos — the Caballo Lake–Palomas Gap
+trail toward Timber Mountain — with no documented rock climbing.
+**Turtleback Mountain** (Caballo Cone), the landmark peak standing
+directly over both TorC and Elephant Butte, is the same story: a
+hiking ridge, no documented climbing, and as of May 2026 its trail is
+reported closed indefinitely. **Elephant Butte** itself turns up
+recreation, OHV routes and camping, again with no documented rock
+climbing. None of the three is confirmed climbing-free — a search
+finding nothing is not the same as rock not existing — so all three
+stay on this list as leads for our own eyes, not crossed off.
+
 **Kingston** past Hillsboro on the Emory Pass road, **Derry**, and
-**Hatch** were named as possibilities and never searched at all. A
-Mountain Project search that turns up nothing for Turtleback Mountain,
-in particular, would itself be worth reporting — that much visible
-rock going undocumented would be notable.
+**Hatch** remain named as possibilities and have not been searched at
+all.
 
 One genuine ambiguity needs resolving before it goes anywhere near a
 map: whether **Mudspring (or Mud Springs) Mountains** is a distinct
@@ -40,15 +49,16 @@ it would be surprising if nothing existed; it is simply unlooked-for.
 
 ## Sources not yet opened
 
-A short list of real leads, roughly in the order we would pull them:
+A short list of real leads, roughly in the order we would pull them.
+One has since been opened and is kept here only to show it is done:
 
-- **"Truth and/or Consequences,"** a 2017 trip report on the Climb
-  Abroad blog — title alone suggests it is written specifically about
-  this area, and it is the single highest-priority unread source on
-  file.
+- ~~**"Truth and/or Consequences,"** the 2017 Climb Abroad blog trip
+  report~~ — now opened; its color on the Bat Cave's history and
+  approach is folded into that crag's page. It named no route grades or
+  a full route list, though, so it does not close the file on its own.
 - **Mountain Project's "Classic Climbs" pages** for Mud Mountain and
-  Caballo Lake, which would supply the star ratings missing from every
-  crag page in this part.
+  Caballo Lake were checked in the gap-fill pass but did not yield star
+  ratings — those are still missing from every crag page in this part.
 - **The Bat Cave Area map page** on Mountain Project — the one place
   we know of that would give GPS coordinates, of which we currently
   have none, for any crag in the county.
@@ -77,5 +87,6 @@ finding on principle alone.
 
 ---
 
-*Compiled from the repository's `research/torc/unverified-leads.md`;
-nothing on this page describes confirmed climbing.*
+*Compiled from the repository's `research/torc/unverified-leads.md` and
+`research/torc/gap-fill-2026-08-21.md`; nothing on this page describes
+confirmed climbing.*

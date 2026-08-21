@@ -218,7 +218,17 @@ Percha Creek: three named routes; access status unknown, permission
 being sought. Negatives: no documented climbing at Palomas Gap,
 Turtleback (trail closed indefinitely May 2026) or Elephant Butte.
 
-### 13. Part I merge editor — in flight
+### 13. Part I merge editor — completed
+Merged the gap-fill into five content/torc pages (index and Red Rock
+Arroyo needed no change). Mud Mountain got its four walls and full
+approach; the Bat Cave page a six-sector section, Super Hero's grade,
+Gotham's Finest/Gambit/Zero Gravity in the table and the Climb Abroad
+color; Luna Park its routes, campground, season and corrected FR
+225/139 approach; Percha its three routes and a prominent
+landowner-permission caution plus the basalt/andesite discrepancy;
+further-leads the negative results. Gambit placed at Grey Wall with
+the ambiguity stated; Zero Gravity moved from Luna Park with a note.
+Build passed.
 ### 14. Lander re-research — completed
 Rewrote `research/featured/lander.md` to full depth. Confirmed: Todd
 Skinner & Amy Whistler/Skinner move to Lander 1989–90, Wild Iris

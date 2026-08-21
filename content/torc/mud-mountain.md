@@ -10,7 +10,7 @@ rock = "Limestone"
 style = "Sport"
 grades = "5.8–5.12"
 season = "Winter — Winter Wall faces south, shade from ~2pm in December"
-approach = "From I-25 to a parking area near a water tank — full directions pending fieldwork"
+approach = "Under the interstate, over the dam, 2.9 mi to the water tank; 4WD for upper parking"
 +++
 
 Mud Mountain is the closest developed climbing to town, overlooking
@@ -27,41 +27,49 @@ the single best interview left to chase for this book.
 
 ## Four walls
 
-The crag unfolds wall to wall along the hillside. **Winter Wall**,
-reached first, is the standout — south-facing, sunny most of the day,
-with shade creeping in from left to right starting around two in the
-afternoon come December. A short down-climb along the base leads to
-**Crow Feather Wall**; a trail across the scree reaches **Yellow
-Wall**; and the switchbacks above Crow Feather climb on to a saddle,
-where cairns lead west to **Vacation Wall**. Grades on Winter Wall and
-Crow Feather Wall run 5.8 to 5.12; Yellow and Vacation Walls' ranges
-were not recovered.
+The crag unfolds wall to wall along the hillside, 41 routes across the
+four of them. **Winter Wall** (19 routes, 5.8–5.12), reached first, is
+the standout — south-facing, sunny most of the day, with shade creeping
+in from left to right starting around two in the afternoon come
+December; by four it has swallowed much of the left side. A short,
+easy down-climb along the base leads to **Crow Feather Wall** (13
+routes, 5.8–5.12). From there, a trail across the scree at the bottom
+of the down-climb reaches **Yellow Wall** (2 routes); continuing up the
+switchbacks along Crow Feather instead reaches **Vacation Wall** (7
+routes). Grades on Yellow and Vacation Walls beyond the overall 5.8–5.12
+range were not recovered.
 
 ## Approach & access
 
-Mountain Project gives turn-by-turn directions from I-25 to a parking
-area near a water tank, but the full text, the exit, and any GPS fix
-were not retrievable from this desk — we are not publishing a turn set
-we have not walked ourselves. Land status at the crag is likewise
-unconfirmed; given how close Mud Mountain sits to the city, some mix
-of BLM, State Trust and private ground is plausible. Treat both as
-open questions until our own visit closes them.
+The drive is now known in enough detail to print. Go under the
+interstate and zero the odometer; head up over the dam. At 1.4 miles,
+turn right into a large arroyo marked by a cairn and follow the tracks
+0.5–0.6 miles to a doubletrack on the left, climbing onto the mesa;
+follow that to the water tank and park — 2.9 miles total. Upper parking
+is possible from there with a high-clearance 4WD. From the parking
+area, follow cairns along the ridge, then down across a wash to the
+first wall. Land status at the crag remains unconfirmed; given how
+close Mud Mountain sits to the city, some mix of BLM, State Trust and
+private ground is plausible, and that stays an open question until our
+own visit closes it.
 
 ## Routes
 
-Only one route page has surfaced in the record so far, and even its
-placement here is inferred rather than confirmed.
+Two route pages have surfaced in the record so far.
 
 | Route | Grade | Stars | Notes |
 |---|---|---|---|
+| [Farewell, Bella Luca](https://www.mountainproject.com/route/116228913/farewell-bella-luca) | — | — | Which of the four walls it sits on is not recorded. |
 | [Club Med](https://www.mountainproject.com/route/116229073/club-med) | — | — | Area assignment unconfirmed; pending fieldwork. |
 
-The wall-by-wall grade ranges above imply a route count well into the
-dozens. We will fill this table as we climb here.
+The wall-by-wall counts above put the real list at 41 routes. We will
+fill this table as we climb here.
 
 ---
 
 *Researched from Mountain Project search summaries, not a direct page
 fetch (full sources and caveats in the repository's
-`research/torc/mud-mountain.md`); route list, stars and approach all
-pending our own fieldwork.*
+`research/torc/mud-mountain.md` and `research/torc/gap-fill-2026-08-21.md`);
+the driving approach and wall-by-wall route counts are now confirmed,
+but the full route list and star ratings are still pending our own
+fieldwork.*
