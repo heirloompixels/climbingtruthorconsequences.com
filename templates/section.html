@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% import "macros.html" as m %}
+
+{% block content %}
+<article class="chapter">
+    <header class="chapter-head">
+        {% if section.ancestors | length > 1 %}
+            {{ m::crumbs(ancestors=section.ancestors | slice(start=1), current=section.title) }}
+        {% endif %}
+        {% if section.extra.kicker %}<p class="kicker">{{ section.extra.kicker }}</p>{% endif %}
+        <h1>{{ section.title }}</h1>
+        {% if section.description %}<p class="lede">{{ section.description }}</p>{% endif %}
+        {{ m::rose_divider() }}
+    </header>
+
+    <div class="prose{% if section.extra.lettrine %} lettrine{% endif %}">
+        {{ section.content | safe }}
+    </div>
+
+    {% if section.subsections %}
+    <nav class="toc" aria-label="{{ section.title }} sections">
+        <ol>
+        {% for sub_path in section.subsections %}
+            {% set sub = get_section(path=sub_path, metadata_only=true) %}
+            <li>
+                <a href="{{ sub.permalink | safe }}">
+                    <span class="c-name">{{ sub.title }}</span>
+                    {% if sub.description %}<span class="c-desc">{{ sub.description }}</span>{% endif %}
+                </a>
+            </li>
+        {% endfor %}
+        </ol>
+    </nav>
+    {% endif %}
+
+    {% if section.pages %}
+    <nav class="toc" aria-label="{{ section.title }} pages">
+        <ol>
+        {% for p in section.pages %}
+            <li>
+                <a href="{{ p.permalink | safe }}">
+                    <span class="c-name">{{ p.title }}</span>
+                    {%- if p.extra.grade %} <span class="c-grade">{{ p.extra.grade }}</span>{% endif %}
+                    {%- if p.extra.grades %} <span class="c-grade">{{ p.extra.grades }}</span>{% endif %}
+                    {% if p.description %}<span class="c-desc">{{ p.description }}</span>{% endif %}
+                </a>
+            </li>
+        {% endfor %}
+        </ol>
+    </nav>
+    {% endif %}
+
+    {{ m::tailpiece() }}
+</article>
+{% endblock content %}
