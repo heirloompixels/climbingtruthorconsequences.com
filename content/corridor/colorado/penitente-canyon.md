@@ -74,9 +74,3 @@ by the man who pioneered much of it. Pair it with Mountain Project's
 pages for current beta, and check the
 [BLM Penitente SRMA](https://www.blm.gov/visit/penitente-canyon) page
 for rules and closures before you go.
-
----
-
-*Researched from the public record (full sources in the repository's
-`research/featured/penitente-canyon.md`); route list verified against
-Mountain Project citations, stars pending our own fieldwork.*

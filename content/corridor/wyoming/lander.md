@@ -93,12 +93,3 @@ pages for current beta, and check
 for seasonal closures and the
 [Shoshone National Forest](https://www.fs.usda.gov/r02/shoshone/recreation/wild-iris-campground)
 for campground fees before you go.
-
----
-
-*Researched from the public record (full sources in the repository's
-`research/featured/lander.md`); route table cross-checked across
-search-engine-grounded Mountain Project text, stars pending our own
-fieldwork. A handful of sector placements — Dogtown, Take Your Hat
-Off, Manifest Destiny — are flagged unconfirmed in the source file and
-should be verified before print.*

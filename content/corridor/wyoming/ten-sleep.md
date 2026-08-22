@@ -93,11 +93,3 @@ area pages for current beta, and read the
 [Access Fund's writeup of the manufactured-holds controversy](https://www.accessfund.org/latest-news/open-gate-blog/what-we-can-learn-from-the-ten-sleep-controversy)
 before you go — the ethics history here is part of climbing the
 canyon responsibly, not a footnote.
-
----
-
-*Researched from the public record (full sources in the repository's
-`research/featured/ten-sleep.md`); route data comes from search-engine
-snippets rather than a direct Mountain Project read, and several named
-moderate zones — Metropolis, French Cattle Ranch — await our own
-fieldwork to fill out with specific routes.*

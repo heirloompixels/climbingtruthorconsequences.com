@@ -91,10 +91,3 @@ pages for current beta, and check the
 [Independence Pass Foundation](https://www.independencepass.org/current)
 and [White River National Forest](https://www.fs.usda.gov/whiteriver)
 for seasonal road status before you drive up.
-
----
-
-*Researched from the public record (full sources in the repository's
-`research/featured/independence-pass.md`); star ratings above are
-unverified pending our own fieldwork, and the route table leans on
-search-engine grounding rather than a direct Mountain Project read.*

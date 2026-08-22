@@ -80,12 +80,3 @@ these three names is the phrase "mixed crack and bolted faces" and
 nothing more specific. Given the unresolved access question above, we
 would not send anyone to climb these until that is settled regardless
 of what this table eventually holds.
-
----
-
-*Researched from Mountain Project search summaries, not a direct page
-fetch (full sources and caveats in the repository's
-`research/torc/percha-creek.md` and
-`research/torc/gap-fill-2026-08-21.md`); three route names, the bridge
-road and the access caution are now confirmed, but grades, season and
-land ownership remain pending fieldwork.*

@@ -84,9 +84,3 @@ earliest known climbing at the Bat Cave, undated in every source we
 hold — dating that work would anchor this whole part's history. And
 whoever named "Clever Lunar-Themed Route Name" at Luna Park is worth
 finding on principle alone.
-
----
-
-*Compiled from the repository's `research/torc/unverified-leads.md` and
-`research/torc/gap-fill-2026-08-21.md`; nothing on this page describes
-confirmed climbing.*

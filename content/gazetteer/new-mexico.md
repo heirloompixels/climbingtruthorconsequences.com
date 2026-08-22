@@ -142,9 +142,3 @@ applies Navajo Nation–wide, not just at Shiprock. Do not climb here.
 Coverage of Diablo Canyon, the Sandias, the Box, Organ Mountains, City
 of Rocks, and Mentmore likely exists in older Falcon editions or local
 pamphlet guides not surfaced in this research pass.
-
----
-
-*Researched from the public record; full sources in the repository's
-`research/census/new-mexico.md`. Entries marked unverified await
-confirmation.*

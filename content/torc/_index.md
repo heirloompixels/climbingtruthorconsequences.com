@@ -47,10 +47,3 @@ BLM ground are a real legal interest here, not a formality — respect
 the boundary even where it is not obviously marked, and expect us to
 keep tightening this guidance as the access picture around every crag
 in the county gets confirmed.
-
----
-
-*Researched from the public record and Mountain Project's area index
-(full sources in the repository's `research/torc/overview.md`); route
-detail and land-management specifics remain pending fieldwork
-throughout this part.*

@@ -89,11 +89,3 @@ and [Ross Peak](https://www.mountainproject.com/area/107075098/ross-peak)
 pages for current beta, and check the
 [Southwest Montana Climbers Coalition](https://swmontanaclimbers.org/)
 for access updates before you go.
-
----
-
-*Researched from the public record (full sources in the repository's
-`research/featured/bridgers.md`); Mountain Project and theCrag were
-unreachable for direct verification during this pass, so the
-moderates table above is deliberately short rather than padded — it
-awaits our own fieldwork.*

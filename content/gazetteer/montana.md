@@ -191,9 +191,3 @@ pass can chase them down:
 - *Lost Horse Canyon: A Climber's Guide to Montana's Best Cragging and
   Bouldering* — dedicated guide to Lost Horse Canyon; author
   unverified this session.
-
----
-
-*Researched from the public record; full sources in the repository's
-`research/census/montana.md`. Entries marked unverified await
-confirmation.*

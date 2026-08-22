@@ -50,10 +50,3 @@ checked.
 
 No route names, grades, or types have surfaced for Red Rock Arroyo in
 any source we could reach. The table stays empty rather than guessed.
-
----
-
-*Researched from a single Mountain Project search summary, not a
-direct page fetch (full sources and caveats in the repository's
-`research/torc/red-rock-arroyo.md`); essentially everything about this
-area is pending fieldwork.*
