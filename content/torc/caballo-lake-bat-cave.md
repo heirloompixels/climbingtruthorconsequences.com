@@ -91,13 +91,3 @@ Dispersed camping is available at the site.
 
 A crag spanning 5.6 to 5.13 across six sectors has far more than four
 routes on it — the rest awaits our own visit to the Bat Cave Area pages.
-
----
-
-*Researched from Mountain Project search summaries, not a direct page
-fetch (full sources and caveats in the repository's
-`research/torc/caballo-lake-bat-cave.md` and
-`research/torc/gap-fill-2026-08-21.md`); the sector layout and a few
-marquee grades are now confirmed, but the full route list, star
-ratings, GPS coordinates and the mine-claim boundary remain pending
-fieldwork.*

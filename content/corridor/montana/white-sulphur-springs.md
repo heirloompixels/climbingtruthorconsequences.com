@@ -73,13 +73,3 @@ with Mountain Project's
 area page — thin as it is, it's the best available online record —
 and treat any land-manager or access information you find locally as
 more current than anything printed here.
-
----
-
-*Researched from the public record (full sources in the repository's
-`research/featured/white-sulphur-springs.md`); this is the thinnest
-file in the Corridor by a wide margin, drawn from a single search
-snippet of the Mountain Project area page and general reference
-sites. Everything above is a starting point for direct verification,
-not finished guidebook copy — consider it an open invitation rather
-than a chapter.*

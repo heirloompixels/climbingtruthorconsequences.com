@@ -64,12 +64,3 @@ Two route pages have surfaced in the record so far.
 
 The wall-by-wall counts above put the real list at 41 routes. We will
 fill this table as we climb here.
-
----
-
-*Researched from Mountain Project search summaries, not a direct page
-fetch (full sources and caveats in the repository's
-`research/torc/mud-mountain.md` and `research/torc/gap-fill-2026-08-21.md`);
-the driving approach and wall-by-wall route counts are now confirmed,
-but the full route list and star ratings are still pending our own
-fieldwork.*

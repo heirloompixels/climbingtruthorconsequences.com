@@ -82,11 +82,3 @@ pages, which are the right next stop for filling out this page's route
 table, and check the
 [Helena–Lewis and Clark National Forest](https://www.fs.usda.gov/hlcnf)
 for current access notes before you go.
-
----
-
-*Researched from the public record (full sources in the repository's
-`research/featured/avalanche-gulch.md`); Mountain Project and theCrag
-were unreachable for direct verification this pass, and the route
-table above reflects that thinness honestly rather than papering over
-it — a scaffold for our own fieldwork, not a finished chapter.*

@@ -170,9 +170,3 @@ Vista, Unaweep Canyon, Colorado National Monument, Ouray, Telluride,
 Durango (X-Rock/East Animas), Hartman Rocks, Penitente Canyon, Black
 Canyon of the Gunnison, and the Naturita/Paradox Valley West End —
 each worth a direct publisher check before treating as uncovered.
-
----
-
-*Researched from the public record; full sources in the repository's
-`research/census/colorado.md`. Entries marked unverified await
-confirmation.*

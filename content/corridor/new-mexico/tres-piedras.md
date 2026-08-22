@@ -75,11 +75,3 @@ and photos — either will serve. Pair either with Mountain Project's
 area pages for current beta, and check with the
 [Carson National Forest, Tres Piedras Ranger District](https://www.fs.usda.gov/r03/carson/offices/tres-piedras-ranger-district)
 for fire restrictions and road conditions before you go.
-
----
-
-*Researched from the public record (full sources in the repository's
-`research/featured/tres-piedras.md`); this file leans on search-engine
-snippets rather than a direct Mountain Project read, so the route
-table above is deliberately incomplete — treat it as a scaffold
-awaiting our own fieldwork.*

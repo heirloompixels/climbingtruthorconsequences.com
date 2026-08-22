@@ -147,9 +147,3 @@ higher, cooler, more remote — as the marquee crag.
 | *Fifty Classic Climbs of North America* | Steve Roper and Allen Steck | Multi-state | Not Wyoming-specific but the standard reference for the state's most-cited alpine and crack classics (Durrance, Grand Teton routes, Wolf's Head, Pingora). |
 | Lander-area (Wild Iris / Sinks Canyon) guidebook(s) | Not independently confirmed | Lander area | Wild Iris Mountain Sports (wildirisclimbing.com) is the standard on-the-ground reference; no dedicated print title/author confirmed this session. |
 | Vedauwoo guidebook(s) | Not independently confirmed | Vedauwoo | vedauwoo.org is the standard modern online reference; no current print title/author confirmed this session. |
-
----
-
-*Researched from the public record; full sources in the repository's
-`research/census/wyoming.md`. Entries marked unverified await
-confirmation.*

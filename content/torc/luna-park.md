@@ -76,11 +76,3 @@ left of Astrobunnies, somewhere in that area. Grades, stars and lengths
 are still unrecorded for most of the lines above; "mostly moderate" —
 now sharpened to a 5.7–5.11 range — is what the record offers until we
 climb here ourselves.
-
----
-
-*Researched from Mountain Project search summaries, not a direct page
-fetch (full sources and caveats in the repository's
-`research/torc/luna-park.md` and `research/torc/gap-fill-2026-08-21.md`);
-season, approach, camping and three routes' grades are now confirmed,
-but rock type and the rest of the route list remain pending fieldwork.*
