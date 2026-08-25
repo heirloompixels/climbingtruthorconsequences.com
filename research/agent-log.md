@@ -270,4 +270,74 @@ regions). All unverified flags carried through; access warnings
 preserved; Guidebooks sections note unverified citations. Build
 clean: 18 pages, 8 sections.
 
+## Wave 2 — 2026-08-25 · the geology pass
+
+A state-by-state pass over the geology of every climbing area in the
+book, one research agent at a time, each writing one file under
+`research/geology/`. Method note unchanged from Wave 1 and re-tested:
+`WebFetch` is still blocked by the egress proxy (three hosts tried:
+wikipedia, geoinfo.nmt.edu, pubs.usgs.gov), so findings are grounded in
+web-search snippets. No geologic map was read directly in any run;
+every unmapped unit assignment is marked as an inference.
+
+### 17. New Mexico geology — completed
+Wrote `research/geology/new-mexico.md` (1,948 lines, ~80 searches).
+Statewide framework: Yavapai/Mazatzal assembly 1.8–1.6 Ga, the 1.45 Ga
+granites (Sandia pluton 1453 ± 12 Ma), the Great Unconformity, the
+Paleozoic carbonate platform, the Ancestral Rockies, Mesozoic dunes and
+the Western Interior Seaway, Laramide, the Mogollon–Datil ignimbrite
+flare-up with a caldera-by-caldera table, the Rio Grande rift, the
+Jemez lineament and Bandelier Tuff, Basin and Range, Quaternary
+volcanism. Then every gazetteer row and every T-or-C crag, a 11-row
+rock-type/climbing-character table, and a hazards section (fire-damaged
+tuff, wet sandstone, three NM rockfall patterns, onion skin, glue-ins
+in soft rock, seepage).
+
+Strongest findings:
+
+- **The Bat Cave is very probably the namesake of the Bat Cave
+  Formation.** Kelley & Silver (1952) named the upper El Paso Group
+  formation for "Bat Cave, whose opening is a prominent landscape mark
+  on a sheer cliff in the upper part of the unit," type section
+  opposite the Sierrite Mine in the Caballos. The climbers' approach
+  lands in the Sierrite Mine / Cable Canyon neighbourhood; MP's
+  mine-claim warning fits; the cave was mined for guano, which explains
+  a fixed 30-ft ladder. Strong circumstantial ID, not formally
+  confirmed.
+- **Luna Park pinned:** rhyolite, sourced — and **Cibola NF, Magdalena
+  RD**, not Gila. Campground at 33.496 N / −107.415 W, 6,837 ft,
+  southern San Mateo Mountains; unit inferred as Vicks Peak Tuff
+  (28.5 Ma, Nogal Canyon caldera) or the overlying Springtime Canyon Fm.
+- **Red Rock Arroyo** is no longer blank: volcanic, "super (darker red)
+  to rubbish (lighter buff)," several crags around Luna Park on FR 225,
+  Cibola NF. The colour split almost certainly tracks welding grade.
+- **Mud Mountain** located (33.1565 N / −107.3081 W, 5,728 ft, Cuchillo
+  quad) at the south end of the Mud Springs Mountains — which settles
+  the `further-leads` question: the Mountains are the range, Mud
+  Mountain is a summit in it. Cliff-former inferred as the Whiskey
+  Canyon Member; note the Silurian and Mississippian are absent here,
+  unlike the Caballos.
+- **Percha Creek:** the "basalt" source is the county tourism page;
+  regional mapping favours Eocene Rubio Peak Fm andesite. The Percha
+  Shale was named for this creek (Gordon 1907).
+
+Corrections carried into `content/` this session: Luna Park rock and
+land manager; Red Rock Arroyo rock and land manager; Doña Ana Mountains
+"Granite" → rhyolite/ash-flow tuff; The Box printed as a live
+climber-versus-survey disagreement (rhyolite vs. Luis Lopez andesite
+porphyry); Dead Cholla Wall as andesite within a basalt gorge; Aguirre
+Springs relocated to the Organs on batholith quartz monzonite;
+"Cañoncito" re-identified as Apache/Grasshopper Canyon near Santa Fe
+and moved to that table; New Canyon (Manzanos) added as a new row.
+
+Stayed unverified: no map read directly, so Mud Mountain (GQ-1686),
+Percha Creek (OFGM-242) and Luna Park / Red Rock Arroyo (GM-87) all
+want one sheet each; **Questa Dome — Proterozoic basement vs. a ~25 Ma
+Latir pluton — genuinely unresolved**; Comales Canyon (Ortega quartzite
+inferred only); Philmont site-by-site; Enchanted Tower's specific Datil
+Group tuff; the Gila/Silver City gap still open (geologic frame added,
+no areas confirmed); Sitting Bull Falls climbing still unconfirmed. Two
+published age discrepancies carried rather than resolved: Kneeling Nun
+Tuff 34.9 vs 35.3 Ma, Organ batholith ~36 vs 33.7–32.8 Ma.
+
 *(Log updated as agents report.)*
