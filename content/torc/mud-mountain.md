@@ -6,7 +6,9 @@ weight = 1
 [extra]
 kicker = "Truth or Consequences · Part I"
 lettrine = true
-rock = "Limestone"
+rock = "Limestone — Paleozoic platform carbonate"
+formation = "Magdalena Group; probably the Whiskey Canyon Member of the Gray Mesa Formation (inferred)"
+rock_age = "Pennsylvanian, ~310 Ma (inferred)"
 style = "Sport"
 grades = "5.8–5.12"
 season = "Winter — Winter Wall faces south, shade from ~2pm in December"
@@ -24,6 +26,59 @@ and finished this crag with real care, and finding out who is probably
 the single best interview left to chase for this book.
 
 {{ plate(caption="Mud Mountain — Winter Wall, Crow Feather, Yellow & Vacation Walls, overview map") }}
+
+## The rock
+
+Mud Mountain is the southern summit of the **Mud Springs Mountains**, a
+small northeast-tilted fault block — about eight kilometres north to
+south and three across, under 26 square kilometres all told — that was
+shoved up northwest of the city while the Rio Grande rift dropped the
+valley beside it. The block is Proterozoic basement with close to a
+kilometre of Paleozoic platform carbonate stacked on top: Cambrian
+Bliss Sandstone at the base, then the Ordovician El Paso Group (Hitt
+Canyon and McKelligon Formations) and Montoya Group (Cable Canyon
+Sandstone, Upham, Aleman, Cutter), then the Devonian Percha Formation —
+the Mud Springs are among its northernmost outcrops — and finally some
+500 metres of Pennsylvanian limestone: the slope-forming Red House
+Formation and, above it, the Gray Mesa Formation. What this block does
+*not* carry is the Silurian Fusselman Dolomite or the Mississippian
+Lake Valley Formation, both of which the Caballo Mountains hold across
+the river. That absence is the local signature: two fault blocks eight
+miles apart, two different readings of the same sea.
+
+Which unit the four walls are actually cut in we are not going to print
+as fact until somebody opens the Cuchillo 7.5′ quadrangle (Maxwell &
+Oakman, USGS GQ-1686), which maps this ground. The best candidate is
+the **Whiskey Canyon Member of the Gray Mesa Formation**, early
+Desmoinesian Pennsylvanian, described in the literature as the range's
+principal cliff-forming cherty limestone; the Ordovician carbonates
+lower in the block are the alternative. Single-pitch sport walls rather
+than a 300-foot escarpment fit the Pennsylvanian cliff bands. Call it
+an inference from regional mapping — a good one, but not a finding.
+
+What the rock does under your hands is less ambiguous. Climbers here
+report **variably sharp limestone** with **pockets**, and, on *Jasper*,
+thin technical climbing on **orange limestone** — three textures that
+are the standard vocabulary of weathered platform carbonate. Sharp grey
+is fresh rock. Orange is an iron-stained weathering rind. The pockets
+are solution features: slightly acidic rainwater working along bedding
+planes and joint flaws and enlarging them, which is why this crag gives
+pockets and small huecos instead of the continuous crack systems that
+would have made it a trad venue. Chert nodules in both the Pennsylvanian
+and the Ordovician carbonate weather proud of the limestone that
+dissolves around them — good holds, occasionally razor-edged ones, and
+unyielding to a drill bit. Because carbonate platform rock is layered
+and the layers differ in hardness, expect bedding-plane ledges and small
+roofs where a resistant bed stands over a soft one.
+
+Two consequences worth carrying to the base of the cliff. The first is
+that the crag is new, and Mountain Project says so plainly: some climbs
+still have loose rock, and care should be taken to protect people
+standing below. A freshly developed limestone crag sheds its weathering
+rind for several seasons — **wear a helmet**. The second is that bolts
+hold beautifully in sound platform limestone and badly in the soft punky
+orange rind, which is one more reason to trust the plaque-marked lines
+of whoever built this place rather than improvising your own.
 
 ## Four walls
 

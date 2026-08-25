@@ -6,7 +6,9 @@ weight = 3
 [extra]
 kicker = "Truth or Consequences · Part I"
 lettrine = true
-rock = "Andesite (one source says basalt — unresolved)"
+rock = "Andesite lava and volcaniclastic rock (one source says basalt — see below)"
+formation = "Rubio Peak Formation (inferred from regional mapping)"
+rock_age = "Middle–late Eocene, ~45–37 Ma"
 style = "Mixed crack and bolted face"
 approach = "Pullout before the NM-152 bridge, a few minutes past Hillsboro; ~5 min to the creek"
 +++
@@ -30,6 +32,53 @@ sport.
 active — see Approach & access below before you read any further.
 
 {{ plate(caption="Percha Creek, Hillsboro — overview map") }}
+
+## The rock — and the creek that named a formation
+
+Percha Creek gave its name to North American stratigraphy before it gave
+its name to a crag. **C. H. Gordon named the Percha Shale in 1907 for
+exposures on this creek**; F. V. Stevenson designated a type section near
+Hillsboro in 1945, splitting it into the lower Ready Pay Member — dark
+fissile and calcareous shales — and the upper, more calcareous Box
+Member. It is Late Devonian, Famennian, and it carries a fish fauna. It
+is emphatically not what you climb on; shale makes slopes, not crags.
+But the guidebook can say truthfully that this five-minute crag stands
+in the type area of a formation that geologists across the Southwest
+still map by name.
+
+The climbing is on something much younger. The **Hillsboro 7.5′
+quadrangle** (NMBGMR OFGM-242) reports that the **Rubio Peak
+Formation** — a thick middle-to-late Eocene sequence of andesitic to
+dacitic lava flows with interbedded volcaniclastic sediment — underlies
+every younger volcanic unit in this country. Above it come the Sugarlump
+Tuff, then the **Kneeling Nun Tuff** blown out of the Emory caldera in
+the Black Range to the west at around 35 Ma, then the Mimbres Peak
+Rhyolite up toward Kingston. The same quadrangle maps lacustrine
+sediment near the Percha Creek narrows and basalt flows *south* of the
+narrows — which is very likely where our one dissenting source, Sierra
+County's tourism page, got "basalt."
+
+So the andesite-versus-basalt argument now has a shape: **the crag is
+most likely cut in andesitic lava or volcaniclastic rock of the Eocene
+Rubio Peak Formation**, with the mapped younger basalt south of the
+narrows as the live alternative that would vindicate the minority
+report. That is inference from regional mapping, not a map read at the
+crag; opening OFGM-242's sheet would end the argument in an afternoon,
+and it is the single highest-value unread document behind this chapter.
+
+The rock behaves like intermediate lava, which is the interesting part.
+Andesite sits between basalt and rhyolite in silica and viscosity, and
+it cools into blockier, less regular joints than basalt's tidy hexagonal
+columns. That is exactly why this is the only crag in the county with
+real crack climbing, and why the cracks are what they are: dihedrals,
+thin corners and finger cracks rather than Indian Creek splitters —
+*Nutcracker* is described as an intimidating thin dihedral finishing up
+a long finger-crack corner, which is the fracture style intermediate
+lava gives you. The same jointing sheds blocks along joint faces, and
+everything that comes off lands in a willow-choked creek bottom where
+people belay. And because the crag *is* a shaded creek bottom under a
+bridge, expect lichen, slower drying than the desert limestone across
+the river, and a season that is the mirror image of Mud Mountain's.
 
 ## Approach & access
 
