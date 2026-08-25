@@ -51,12 +51,14 @@
 {# The spec card: standard crag/route fields rendered from [extra], in the
    manner of a guidebook's stat block. Every field is optional. #}
 {% macro spec(extra) %}
-{%- set has_spec = extra.rock or extra.style or extra.season or extra.elevation or extra.approach or extra.grades or extra.rock_type or extra.land or extra.grade or extra.pitches or extra.length or extra.protection or extra.fa -%}
+{%- set has_spec = extra.rock or extra.formation or extra.rock_age or extra.style or extra.season or extra.elevation or extra.approach or extra.grades or extra.rock_type or extra.land or extra.grade or extra.pitches or extra.length or extra.protection or extra.fa -%}
 {%- if has_spec -%}
 <dl class="spec">
     {%- if extra.grade %}<div><dt>Grade</dt><dd>{{ extra.grade }}</dd></div>{% endif -%}
     {%- if extra.stars %}<div><dt>Quality</dt><dd><span class="stars">{% for i in range(end=extra.stars) %}★{% endfor %}</span></dd></div>{% endif -%}
     {%- if extra.rock %}<div><dt>Rock</dt><dd>{{ extra.rock }}</dd></div>{% endif -%}
+    {%- if extra.formation %}<div><dt>Formation</dt><dd>{{ extra.formation }}</dd></div>{% endif -%}
+    {%- if extra.rock_age %}<div><dt>Age</dt><dd>{{ extra.rock_age }}</dd></div>{% endif -%}
     {%- if extra.style %}<div><dt>Style</dt><dd>{{ extra.style }}</dd></div>{% endif -%}
     {%- if extra.type %}<div><dt>Type</dt><dd>{{ extra.type }}</dd></div>{% endif -%}
     {%- if extra.pitches %}<div><dt>Pitches</dt><dd>{{ extra.pitches }}</dd></div>{% endif -%}
