@@ -1704,3 +1704,306 @@ Hartville uplift**," Style = "sport and toprope, home-made fixed gear,"
 and a **red hazard note**: fractured rock, non-standard anchors, helmet
 and judgement required. It is currently mentioned in the chapter
 introduction and nowhere else, which is the worst of both worlds.
+
+---
+
+## Part 4 — Cross-cutting reference
+
+### 4.1 The recurring rock types of Wyoming climbing
+
+| Rock type | Where in this book | How it formed | Fracture / jointing | Holds | Friction & durability | Watch out for |
+|---|---|---|---|---|---|---|
+| **Archean granitoid** (2.63 Ga Louis Lake, ~2.5 Ga Bears Ears, ~2.55 Ga Mount Owen, 2.55 Ga Granite Mountains batholith, 2.95 Ga Bighorn batholith) | Cirque of the Towers, Deep Lake/Haystack, upper Sinks Canyon, Fremont Canyon, Dome Rock, Independence Rock, Lankin Dome, Shoshone Canyon granite, the central Tetons | late-Archean batholiths in the Wyoming Province; exhumed by Laramide uplift, scoured by Pleistocene ice | a few widely spaced, well-organised joint sets, plus **sheeting (exfoliation) joints** parallel to dome and trough surfaces | crystal crimps, knobs, splitters and offwidths in the joints; **crystal holds on blank slabs** | superb friction; **coarse — "large inch-sized crystals that painfully press into your hands"** | **grus**; hollow exfoliation shells; runout on domes where the only joints are underfoot; frost-shattered summit blocks |
+| **Archean layered gneiss** (~2.87 Ga metamorphism) | Grand Teton, Death and Cascade Canyons, Mount Moran, the northern Wind Rivers (Titcomb, Gannett) | mid-crustal metamorphism of a sedimentary-volcanic pile; interlayered biotite, plagioclase and amphibole gneiss and amphibolite | **foliation** — alternating dark and light layers — plus cross-cutting joints | incut edges where mica bands weather back; ledges at layer boundaries | variable, and that is the point | **"rock quality can range from dreamy to nightmare, all in one pitch"**; foliation-parallel flakes; amphibolite and micaceous bands are the loose bands |
+| **1.43 Ga Sherman Granite** | Vedauwoo | anorogenic A-type batholith, coeval with the Laramie anorthosite complex; raised by the Laramide Laramie Range uplift; sculpted into **tors** by deep subsurface weathering | **widely spaced ENE joint set** — few cracks, but big ones; corestone rounding flares them near the surface | wide cracks: fists, offwidths, chimneys; almost no face holds between | outstanding friction; **~54 % centimetre-scale microcline crystals with "scalpel-like edges"** | **it eats skin** — tape everything; flaring, rounded jams; grus on every ledge; unattached summit blocks; sandbagged grades |
+| **2.34 Ga Baggot Rocks Granite** | Baggot Rocks (undeveloped) | Paleoproterozoic phacolithic granite intruding Archean gneiss | massive to foliated; diabase dikes and pegmatite cut it | rounded outcrops, crystal faces | hard | foliated zones flake; no confirmed climbing |
+| **Paleoproterozoic quartzite** (Medicine Peak Quartzite, 2.4–2.0 Ga) | Snowy Range / Medicine Bow Peak | shallow-marine sand of the Snowy Pass Supergroup, buried, heated and recrystallised — **~5,600 ft thick** | shallow, flaring, blind joints; relict bedding and foliation give flakes | edges and bedding breaks; **no pockets, no crystals** | very hard, nearly non-porous, brilliant friction clean and poor when lichened or wet | **sparse gear** — quartzite joints are shallow and flaring; slab runouts; glaciated cirque talus |
+| **Bighorn Dolomite** (Mid–Late Ordovician; **only 25–42 m / 82–138 ft** in the Bighorns, <150 ft massive member in the SE Winds) | Leigh Creek and the lower Ten Sleep crags, Wild Iris and the Lander crags (per climbers), Story, Tongue River | shallow tropical sea over the drowned craton; heavily bioturbated, fossiliferous subtidal to peritidal facies, later dolomitised | **massive, cliff-forming, siliceous**; widely spaced joints | **pockets — monos to jugs** — from dolomitisation porosity, selective dissolution and karst; crimps; plates | hard, high friction, excellent bolt rock; **bone-white weathering** | **razor pocket lips**; sugary, friable zones where dolomitisation went too far; hollow pockets over voids |
+| **Madison Limestone** (Early Mississippian ~350 Ma; Mission Canyon over Lodgepole; **~490–700 ft** thick) | Ten Sleep Canyon's big walls, Sinks Canyon, Rodeo Wall & the Hoback, Cody's limestone crags, Story/Tongue River/Crazy Woman, Guernsey | tropical carbonate platform; **the upper Madison was subaerially exposed and karsted before the Amsden was deposited** | **bedding-plane roofs, ledges and plates**; joints cut across; bulges are dissolution-sculpted bedding | **solution pockets inherited from fossil karst**, huecos, caves, chert knobs, layback flakes | sharp and highly textured; the prized **"blue rock"** is fresh, unweathered Mission Canyon | **solution-breccia zones** (collapsed, re-cemented rubble bands = bad holds, bad bolts); seepage for days because karst drains *through*; case-hardened rind; polish |
+| **Guernsey / Hartville Formation carbonate** (Miss.–Penn.) | Guernsey State Park, Glendo | carbonate platform on the flank of the Hartville uplift, heavily cherty | **steep dips and pervasive fracturing** from tight Laramide folding | edges, chert knobs | variable | **"much of the rock is quite shattered"**; home-made anchors reported; the most explicitly hazardous rock in this file |
+| **Tensleep Sandstone** (Penn.–Early Permian) | lower Sinks Canyon ("The Sandstone", Sandstone Buttress); the rimrock above Ten Sleep Canyon | **eolian** — an erg that prograded south out of north-central Wyoming, repeatedly drowned by marine transgressions; grainfall and wind-ripple foresets | large-scale **cross-bedding** plus vertical joints; alcoves and slots | crossbed edges, cracks along joints, huecos | good when well cemented; **"sandy" where not** | **wet sandstone loses much of its strength — wait 24 h after rain, 48–72 h after a storm**; it is also the failure surface of the 1925 Gros Ventre Slide (§4.3) |
+| **Flathead Sandstone** (Middle Cambrian) | `[inferred]` Shoshone Canyon bouldering | the transgressive beach sand that drowned the Archean craton — **the Great Unconformity's cap** | joints; <25 m thick, so no big walls | crisp edges under an iron rind | quartzitic and hard where silicified | thin unit; wet-rock ethic applies |
+| **Phonolite porphyry** (~49 Ma) | Devils Tower | silica-undersaturated alkaline magma — nepheline and feldspathoids, not quartz — emplaced into Triassic–Jurassic sediment and cooled slowly | **columnar cooling joints**: mostly 5-sided, 6–8 ft across at the base tapering to ~4 ft, some >590 ft long | **the joints are the routes** — fingers to offwidth to chimney; uniform parallel-sided cracks | fine-grained, compact, **polishes readily**; moderate friction — security is jamming geometry, not smearing | **cross-fractures in the top ~100 ft** break the columns into small blocks; whole exterior columns fail as the soft sediment beneath erodes, building the talus ring |
+| **Absaroka volcaniclastic — breccia, conglomerate, lahar** (53–43 Ma) | South Fork of the Shoshone ice, the Absaroka Range generally | ~29,000 km³ of andesitic volcanic debris in two 165-mile-long belts; "mostly altered" | flat-lying alternating hard and soft bands → **a stepped cliff profile** | on rock: none reliable. On ice: everything | poor. The local name is "**kitty litter**" | **rock protection is poor to useless**; hydrothermal alteration has turned feldspar to clay; rockfall during thaws |
+| **Cretaceous shale + Mesaverde caps** (Mancos, Frontier, Cody) | Flaming Gorge WY side, most basin margins | Western Interior Seaway mud with thin shoreline sand caps | shale does not hold a joint | none | none | **this is why large parts of Wyoming have no climbing at all** — it is hoodoo and badland country |
+
+### 4.2 Why the Bighorn Basin rim is extraordinary sport rock
+
+The best sport climbing in the interior West runs in a broken ring around
+the **Bighorn Basin and the southeastern Wind River flank**: Ten Sleep on
+the west side of the Bighorns; Story, Tongue River and Crazy Woman on the
+east; Cody's limestone crags on the north; Lander's belt on the
+southwest. Four separate destinations, one geological explanation.
+
+**1. The right rock got laid down.** The Madison is a **tropical
+carbonate platform** deposited across the drowned Wyoming craton in the
+Early Mississippian, ~700 ft thick in the Bighorns, and the Bighorn
+Dolomite beneath it is a bioturbated, fossiliferous Ordovician shelf
+carbonate. Both are **thick, laterally continuous, mechanically strong
+and free of shale interbeds at the scale of a pitch**. That is not
+guaranteed — the Gallatin and Gros Ventre below them are slope-formers,
+and the Amsden above is a red recess. Only two units in the Wyoming
+section reliably build a vertical wall a hundred feet tall.
+
+**2. Dolomitisation made the holds.** This is the mechanism that most
+climbing writing gets wrong, and it is the heart of this file. Replacing
+calcite with dolomite substitutes a **smaller magnesium ion for a larger
+calcium one**; mole-for-mole, "dolomitisation causes a **13 % shrinkage
+of the original bulk volume**, thereby increasing the porosity," and "may
+generate up to 13 % porosity as interparticle or intercrystalline pores."
+"Crystalline dolomites are often highly porous, with a **friable, sugary
+texture**." In the regional Madison, "in broad areas of the eastern Rocky
+Mountains and western Great Plains **dolomite is a dominant constituent
+and in places the Madison is almost entirely dolomite**," and "maximum
+porosity development … seems to be related to the **coarser crystalline
+dolomite facies**."
+
+So the pocket festival at Wild Iris and Ten Sleep is a **diagenetic**
+product. Not gas bubbles (a local folk explanation worth correcting in
+print); not solely rainwater. The rock was rebuilt, crystal by crystal,
+into something 13 % emptier than it started, and then dissolution
+enlarged the emptiest parts.
+
+**3. Then it was karsted — twice.** The upper Madison was **subaerially
+exposed for roughly 25 million years** before the Amsden was deposited on
+top of it, and it contains a "spectacular exposure of laterally
+continuous **evaporite paleokarst zones**." The mechanism is specific:
+the "lithological trinity of dolostone, limestone and **sulfates
+(anhydrite and/or gypsum)**" dissolves the sulfates first, and the
+carbonate roof collapses into the void. Documented Madison paleokarst
+features include "**enlarged joints** (mainly vadose), **sinkholes**
+(vadose and phreatic), **caves** (mainly phreatic), and **two
+solution-breccia zones** (phreatic)," within "the upper 400 ft of the
+Madison bedrock," subdivided into seven karst facies including
+"laminated cave floor fill, roof collapse chaotic breccias, and
+suprastratal dissolution complexes."
+
+And then it was karsted *again*, in the Quaternary, once the Laramide
+raised it and rivers cut into it: the **Sinks and the Rise** at Lander
+(over two hours for the river to travel a quarter-mile underground),
+**Tongue River Cave** (1.23 miles of passage in the Madison), **Great-X
+Cave** (over 1,400 ft deep, 6 miles surveyed, formed in dolomite).
+
+**4. The Laramide tilted it and the rivers cut it.** A flat-lying
+carbonate sheet is a plateau. A carbonate sheet **tilted off the flank of
+a basement-cored uplift and then trenched by a creek** is a canyon with
+two facing walls of continuous cliff, at a range of elevations and
+aspects. That is Ten Sleep exactly — 6,000 to 9,500 ft of crag elevation,
+morning shade on one side and afternoon shade on the other, which is why
+the season runs spring to fall.
+
+**5. And the glaciers cleaned it.** "Glaciers carved out the valley of
+Tensleep Canyon within the last 250,000 years." Ice plucked joint-bounded
+blocks off the canyon walls and left them steep, clean and undercut.
+
+**What the climber actually meets, and how to read it.**
+
+- **Blue-grey = fresh.** "Blue-gray massive limestone and dolomite" is
+  the *formal* description of the Mission Canyon Limestone. When Ten
+  Sleep climbers prize the "blue rock," they are prizing **unweathered
+  rock** — dense, low-porosity, strong. It is not a coincidence of taste;
+  it is a rock-quality diagnostic, and the book should say so.
+- **Gold and tan = an iron-stained weathering rind, or water streaking.**
+  Usually good. Sometimes a shell over softer rock.
+- **Bone-white = leached, chalky, decalcified surface.** The least
+  reliable of the three — and confusingly, "bone-white dolomite" is also
+  exactly how the good Bighorn Dolomite at Wild Iris is described, so
+  colour is a guide within one crag, not across the state.
+- **Pockets come in horizons.** They follow the fabric — a dolomitised
+  band, a fossiliferous bed, a karsted joint. **Read the band, not the
+  wall.**
+- **Rims are sharp because they are fresh crystal terminations.** Filing
+  a razor lip is accepted local practice at Lander and Ten Sleep; see
+  §4.3 for where that stops being acceptable.
+- **A solution-breccia band is a band of bad rock.** Collapsed,
+  re-cemented rubble takes a bolt badly and gives holds that lever out.
+  It will often look like a slightly different colour and texture running
+  horizontally across the wall.
+
+**How this differs from the Archean granite areas.** Everything above is
+about *chemistry acting on a rock after it formed*. On Wyoming's granite
+— Vedauwoo, the Winds, the Sweetwater domes, Fremont Canyon — nothing
+comparable happens, and the contrast is nearly total:
+
+| | Bighorn Basin carbonate | Archean granite |
+|---|---|---|
+| Holds made by | **dissolution** — pockets, huecos, karst voids | **mechanical fracture** — joints and cracks — plus crystals standing proud of a weathering surface |
+| Protection | **bolts**, because there are no continuous cracks and the rock takes fixed gear well | **cams and nuts**, because the cracks are the only features |
+| Failure mode | breccia bands, hollow pockets, case-hardened rind, seepage | **grus**, exfoliation shells, unattached corestones |
+| Weather sensitivity | drains *through* the rock — weeps for days after the surroundings are dry | sheds water off the surface; dries fast |
+| Skin | sharp pocket rims | sharp feldspar crystals — a different injury entirely |
+| Grade texture | steep, sustained, power-endurance; 5.11–5.13 is the meat | wide, technical, insecure; grades resist calibration |
+| Why the area exists | a strong carbonate band, tilted and trenched | a resistant pluton, exhumed and either glaciated (Winds) or rotted into tors (Vedauwoo) |
+
+Sinks Canyon is the one place in the state where a climber can walk from
+one system into the other in an afternoon — sandstone at the mouth,
+carbonate through the middle, Archean granite at the head of the canyon.
+It is the single best teaching crag in Wyoming for exactly that reason,
+and the book should use it that way.
+
+### 4.3 Geologic hazards and ethics
+
+**Devils Tower's June voluntary closure.** The **1995 Devils Tower
+National Monument Climbing Management Plan** established a voluntary
+closure of all climbing routes on the Tower each June, out of respect for
+Native American ceremonial use; it has run every June since **1996**, and
+it was agreed by a working group that included tribal representatives and
+climbing organisations. **26 tribes hold the Tower — *Mato Tipila*, Bear
+Lodge — as significant in their cultural or religious beliefs**, and June
+ceremonies including the **Lakota Sun Dance** are among the most
+important spiritual practices of the Northern Plains tribes. Compliance
+is reported at roughly an **85 % reduction** in June climbing, and the
+**Access Fund fully supports the closure**. It is not law and is not
+enforced; it is observed. The book should present it as an obligation of
+respect rather than a regulation, give the Indigenous names alongside the
+map name, and note that the closure has held for three decades because
+climbers chose to hold it.
+
+**Raptor closures.** Carbonate cliffs have ledges, alcoves and solution
+holes; **peregrine falcons and other raptors nest in them**; and the
+**Migratory Bird Treaty Act of 1918** obliges land managers to prevent
+disturbance of nesting birds. The closures are therefore a permanent
+feature of Wyoming carbonate climbing, not an occasional inconvenience.
+Documented examples:
+
+- **Ten Sleep Canyon** — the **Munitions** and **Oblivion** walls in the
+  **Valhalla** area carry a voluntary closure "effective immediately
+  through **August 15**," covering all climbing on those walls; the
+  Bighorn National Forest wildlife biologist administers it.
+- **Fossil Hill (Lander)** — a voluntary seasonal raptor/wildlife closure
+  has applied roughly **June 9 – August 15** in past years.
+- The general pattern USFS uses is "**spring until mid-August (often
+  August 15)**," and dates move year to year. **Always check the current
+  year locally** — Wild Iris Mountain Sports for Lander, the Bighorn
+  Climbers' Coalition and the Powder River Ranger District for Ten Sleep.
+
+**Bat closures — a distinctively Wyoming carbonate problem.** Because the
+Madison is karsted, the same crags come with caves, and the caves come
+with hibernating bats. **Tongue River Cave is closed every year from
+October 15 to April 15** to protect hibernating bats from disturbance.
+White-nose-syndrome decontamination protocols apply. This is a real and
+separate access category from raptor nesting, and the gazetteer does not
+currently mention it.
+
+**The Ten Sleep manufacturing controversy, and why it happened on this
+rock.** From about 2016 climbers began finding extensively manufactured
+holds in the canyon — chipped, drilled and glued, "some of the routes
+with as many as **20 drilled holds**." In 2019 a group of roughly
+eighteen anonymous climbers chopped bolts from about thirty routes, and
+on **July 19, 2019** the Forest Service halted **all new bolt
+installation and new route or trail development across the entire Bighorn
+National Forest**. **Funky Town** and **Trump Tower**, and their access
+trails, remain permanently closed. Manufacturing is now subject to
+criminal fines.
+
+The geological point the book should make is this: **a vuggy, sugary
+dolomite with 13 % intercrystalline porosity is soft enough to drill a
+"pocket" into with a hand tool, and pocketed enough that a fabricated
+pocket is hard to tell from a real one.** The universally accepted local
+practice of **filing a razor-sharp pocket lip for safety** sits at one end
+of a continuum whose far end is a manufactured route, and *the rock
+provides no natural boundary between them.* That is precisely why the
+community had to draw the line by agreement, and why the argument was
+never going to settle itself. The Access Fund's framing — oppose
+intentional alteration by gluing or chipping — is the operative standard.
+
+**Wet Tensleep Sandstone, and the Gros Ventre Slide.** Sandstone is
+quartz grains held by a small volume of cement; wet western sandstone can
+lose a large fraction of its strength, holds snap, and protection pulls.
+Give the lower Sinks Canyon sandstone **24 hours after light rain and
+48–72 hours after a storm**, per the standard practised at Roy and
+Mentmore in `new-mexico.md` §4.2 and at the Billings Rimrocks in
+`montana.md`.
+
+Wyoming supplies the most spectacular demonstration in North America of
+what wet Tensleep Sandstone does. On **23 June 1925** the north face of
+**Sheep Mountain** in the Gros Ventre Range collapsed: about **50 million
+cubic yards** of rock travelled **1.5 miles**, dropped **2,100 ft**,
+climbed **350 ft up the opposite wall** and moved at roughly **50 mph**,
+damming the Gros Ventre River. The mechanism is a stratigraphic sandwich
+every Wyoming climber will recognise: the slope surface is **Tensleep
+Sandstone**, permeable through its intergranular pores and its joints;
+beneath it the **shale beds of the Amsden Formation** are impermeable;
+groundwater collected at the contact, in weak weathered siltstone;
+the beds dip **northward, roughly parallel to the hillside**; the river
+had undercut the toe; a wet spring saturated the weak layer and lowered
+its frictional strength; and the slope failed **near the Tensleep–Amsden
+contact**, possibly triggered by a small earthquake.
+
+The lesson generalises: **a dip slope of permeable sandstone over
+impermeable shale is a landslide waiting for a wet year**, and that exact
+couplet — Tensleep over Amsden — wraps every Bighorn Basin range front.
+It is the reason for the slumped, hummocky ground below so many Wyoming
+crag approaches.
+
+**Loose-rock reputations, named.**
+
+- **Devils Tower, the top ~100 feet.** Excellent rock "up until the last
+  100 feet of the tower or so," which the USGS description explains
+  exactly: smooth column joints in the middle of the Tower, but **wavy
+  joints and numerous cross-fractures dividing the columns into many
+  small irregularly shaped blocks** near the summit. And the **talus ring
+  is live** — exterior columns lose lateral support as the soft
+  sedimentary base erodes, and fall.
+- **The Grand Teton and the Black Ice Couloir.** "Rock quality can range
+  from dreamy to nightmare, all in one pitch, which is typical of the
+  Tetons." The **Black Ice Couloir** has a long-standing rockfall
+  reputation — the neighbouring Enclosure Couloir is described as having
+  "less rockfall danger than the Black Ice," a park ranger was struck by
+  spontaneous rockfall there on mountain patrol, and the standard advice
+  is an early start to be out of the couloir before the sun and before
+  parties on the Owen-Spalding are above you. Add the Grand's documented
+  recent large rockfalls and the collapse at the Second Tower: **this is
+  an actively failing face, not a stable one.**
+- **The northern Wind Rivers.** The AAC's own reconnaissance: "If Cirque
+  rock is vanilla ice cream in its uniformity, **Titcomb rock is many
+  flavored**, including various swirly concoctions." Gneiss with granite
+  irregularly intruded through it varies within a pitch. The southern
+  Winds are the reliable rock; the north is not.
+- **The southern Winds' ledges, not their faces.** "The rock quality on
+  most of the mountain is high quality granite, though climbers should
+  **watch for loose talus near trail junctions and ledges**." Alpine
+  rockfall in the Rockies is overwhelmingly a **ledge-and-gully** problem
+  produced by freeze–thaw on frost-shattered ridges, not a face problem.
+- **The South Fork of the Shoshone.** "The most common type of rock found
+  in these mountains is **breccia**, … affectionately known as '**kitty
+  litter**' due to its crumbly and unstable nature," in a supergroup
+  formally described as "**mostly altered**." Rock gear is close to
+  worthless; the danger window is a thaw.
+- **Guernsey State Park.** "**Much of the climbing … is on fractured or
+  otherwise unsound rock and is protected by home-made anchors and bolts,
+  requiring extreme caution — holds and bolt placements that appear
+  sturdy may not be.**" This is the bluntest warning found for any
+  Wyoming area and it should be reproduced, not paraphrased.
+- **The Blade, Fremont Canyon.** The West Chimney (5.4) behind this
+  detached 95-ft tower is explicitly "easy but **loose**" — which is what
+  the gap behind a detaching tower always is.
+- **The Sweat Lodge, Lander.** A leaning dolomite flake is held up by
+  **friction and geometry, not attachment**, and the floor inside it is
+  the debris cone from its own collapse.
+
+**Bolts, and what the rock will hold.** Wyoming spans the full range.
+Massive siliceous Bighorn Dolomite and fresh Mission Canyon limestone
+take fixed gear extremely well, which is why Ten Sleep can be famous for
+"kindly spaced bolts." But the same formations contain **sugary
+dolomitised bands, solution-breccia zones and case-hardened rinds** that
+do not. Published testing in weak rock found failure loads of **8–48 kN**
+with **chemically bonded (glue-in) anchors strongest**, only 10 mm rings
+and 10 mm U-bolts passing EN 959, and glue-ins recommended to be
+**embedded about five times their diameter**; glue-ins are the correct
+choice "for very soft or porous rock types such as limestone." Weathered
+bolts are a growing problem everywhere. The practical rules for this
+state: **trust the fresh blue rock, distrust the chalky white band,
+distrust anything home-made (Guernsey), and treat a bolt through a rind
+as a bolt in nothing.**
+
+**Wilderness and land-manager constraints.** Bridger and Popo Agie
+Wilderness permits govern the Winds; Grand Teton National Park requires
+backcountry registration; the Bighorn National Forest's 2019 development
+moratorium still shapes Ten Sleep; the Sweetwater Rocks are a BLM
+Wilderness Study Area with **seasonal grazing closures on the Lankin Gap
+approach (roughly March/April–June)** and a checkerboard of private
+inholdings; Baldwin Creek's road closes in winter **for elk habitat
+management**; Dome Rock has a rancher owning ground around the dome
+itself. In central and eastern Wyoming, **the fence is usually the real
+boundary, not the map.**
