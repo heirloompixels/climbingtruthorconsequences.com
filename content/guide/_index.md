@@ -30,6 +30,35 @@ two is worth planning around, three is worth the drive from another
 state. Stars in Part II are ours; stars elsewhere are the consensus of
 the sources cited.
 
+## Reading the rock
+
+Every crag page carries a geology section, and the spec card at the top
+of the page carries three fields that go with it: **Rock**, the
+lithology in the plainest useful terms; **Formation**, the named
+geologic unit, where one can be named; and **Age**, how old the stone
+is. They are there because rock type is not decoration. Jointing decides
+whether a crag gives splitter cracks, columnar corners or blank slabs;
+grain size and mineralogy decide friction and how fast the holds wear;
+welding grade decides which band of an ash-flow tuff is worth bolting;
+and the same processes decide the hazards — which rinds sound hollow,
+which cliffs shed blocks, which rock must not be climbed wet.
+
+Two conventions in those sections are worth stating plainly. First,
+**a named formation is a claim, and we only make it when a source
+makes it.** Where regional mapping makes a unit near-certain but no
+source names it at the crag itself, the page says *inferred* and says
+what the inference rests on — usually the crag's position inside a
+mapped block, and which unit forms the cliffs in that block. Second,
+**where climbers and geologists disagree about a rock, we print both.**
+Climbers use "granite" for anything coarse and crystalline and
+"rhyolite" for anything hard and pale, and they are often close enough
+for the purpose; when a state survey maps something different, the
+disagreement is more interesting than either answer alone.
+
+The deep geology files behind these sections — one per state, with
+statewide frameworks, area-by-area entries and full bibliographies —
+live in the repository under `research/geology/`.
+
 ## Access and honesty
 
 Access is fragile everywhere and especially on the small crags this
