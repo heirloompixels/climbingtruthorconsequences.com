@@ -6,7 +6,9 @@ weight = 1
 [extra]
 kicker = "Wyoming · The Corridor"
 lettrine = true
-rock = "Bighorn Dolomite (Ordovician)"
+rock = "Dolomitized platform carbonate — climbers call all of it dolomite"
+formation = "Madison Limestone above, Bighorn Dolomite at road level — both are exposed"
+rock_age = "Mississippian ~340 Ma (Madison); Ordovician ~450 Ma (Bighorn)"
 style = "Sport — pockets, edges & flakes, slightly overhanging to dead vertical"
 grades = "5.6–5.14, with named moderate zones at Metropolis and Leigh Creek"
 season = "Roughly spring through fall; shade notes vary sharply by sector"
@@ -44,6 +46,105 @@ your first bolt here — it shaped, and is still shaping, what you'll
 find on the wall.
 
 {{ plate(caption="Ten Sleep Canyon — Leigh Creek to Valhalla, overview") }}
+
+## The rock
+
+Every source in the canyon, ours included until now, calls this Bighorn
+Dolomite. The geology says that is right for some crags and wrong for
+others, and the distinction is worth getting straight because the two
+units are separated by about 140 million years.
+
+Ten Sleep Canyon cuts the southwestern flank of the **Bighorn uplift**, a
+Laramide basement-cored block raised between about 75 and 55 Ma with its
+Paleozoic platform tilted off the flanks — so driving up the canyon
+walks you down through the section. The Forest Service's own
+interpretive signage gives the benches, top to bottom: the yellow
+cliff-forming **Tensleep Sandstone** at the rim, the red recess of the
+**Amsden Formation**, the thin **Darwin Sandstone** ledge, then the gray
+cliffs of the **Madison Limestone** — the main cliff-former — with the
+**Bighorn Dolomite** below it at road level near Leigh Creek, whose
+upper Leigh Member is in fact named for that creek. Under all of it,
+Cambrian slopes and then Archean basement in the creek bed, with the
+Great Unconformity at its top. Then glaciers cut the valley within the
+last 250,000 years and left the U-shaped trough.
+
+So both units are real and both are here. But the Bighorn in these
+mountains is only 25 to 42 metres thick, while the Madison runs 490 to
+700 feet — **a 250-foot crag cannot be entirely inside a 130-foot
+formation**, though an 80-foot crag at the canyon bottom certainly can.
+The honest line for this book is *Madison Limestone and Bighorn
+Dolomite, and climbers call all of it dolomite.* (That is our reading of
+published mapping and signage, not a sheet read at each crag.)
+
+Here is the thing that makes the climbers' error nearly harmless: **the
+Madison in Wyoming is itself substantially dolomitized.** Its Mission
+Canyon member is formally "blue-gray massive limestone *and* dolomite,"
+and across broad areas of the eastern Rockies the Madison is almost
+entirely dolomite. A climber standing on a Madison cliff calling the
+rock dolomite is describing the rock correctly and naming the formation
+wrongly. One climbing source gets it exactly half right and is worth
+quoting for it: "while some might say that Ten Sleep Canyon hosts the
+best *limestone* sport climbing in the States, they are wrong — Ten
+Sleep is in fact dolomite, though the composition and style of climbing
+is hard to distinguish from limestone."
+
+### Where the pockets come from
+
+Not gas bubbles — that local explanation circulates at Wild Iris too and
+it is wrong. There are three real mechanisms, and knowing them tells you
+where to look.
+
+**Dolomitization porosity.** Replacing calcite with dolomite swaps a
+large calcium ion for a smaller magnesium one, and the mole-for-mole
+reaction shrinks the rock's bulk volume by roughly 13%. That opens
+intercrystalline pore space and gives crystalline dolomite its friable,
+sugary texture. **Selective dissolution.** Fossils, ooids and burrow
+fills dissolve preferentially, leaving vugs — and this is heavily
+bioturbated, fossiliferous rock. **Karst.** Long subaerial exposure
+enlarges joints and bedding partings into cavities; in the upper Madison
+specifically, an evaporite paleokarst dissolved the sulfates out of a
+dolostone–limestone–sulfate stack, and solution-breccia beds are
+widespread in its top 400 feet.
+
+Two things follow. Pockets are **solution features aligned on the fabric
+of the rock**, so they come in horizons and clusters rather than at
+random — read the band, not the wall. And a **solution-breccia zone is a
+band of collapsed, re-cemented rubble**: a band of bad holds and bad
+bolts, hiding inside a formation otherwise famous for good ones.
+
+### Reading the colours
+
+The canyon's celebrated gold, white and blue walls are not decoration.
+They are a rock-quality map.
+
+- **Blue-gray** is fresh, dense, low-porosity carbonate — the Mission
+  Canyon's own described colour. Climbers prize "blue rock" because
+  they are looking at unweathered stone.
+- **Gold, tan and orange** is an iron-stained weathering rind or
+  water-streaked calcite. Often good; sometimes a shell.
+- **Bone-white** is a leached, decalcified, chalky surface — the least
+  reliable of the three, and why some striking-looking walls here climb
+  badly.
+
+The rest follows from bedded carbonate: **plates and flakes** where
+softer interbeds have eroded back and left harder layers standing proud,
+which are the holds *and* the hazard, since a plate is attached on one
+side only. Bulges that are dissolution-sculpted bedding rather than
+tectonics, hence the pumpy 15-degree overhangs. And bolts that hold
+beautifully in massive siliceous dolomite — a cultural fact resting on a
+geological one.
+
+### Why the ethics fight happened here
+
+The manufacturing controversy is a geology story too. A vuggy, sugary
+dolomite with high intercrystalline porosity is **soft enough to drill a
+"pocket" into with a hand tool, and pocketed enough that a manufactured
+pocket is hard to tell from a real one**. The accepted local practice of
+filing a razor-sharp pocket lip for safety sits at one end of a
+continuum whose other end is a fabricated route — and the rock itself
+offers no bright line between them. That is precisely why the community
+had to draw one, and why this fight happened in a dolomite canyon rather
+than on granite.
 
 ## Chosen moderates
 

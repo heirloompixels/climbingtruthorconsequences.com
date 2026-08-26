@@ -1559,3 +1559,148 @@ and positioning right above a blue-ribbon trout stream." A short, narrow,
 roadside carbonate canyon: single-pitch, quick-drying on the sunny side,
 seepy on the shaded side, and with the base of every route within a few
 metres of a road or a creek.
+
+---
+
+### 3.13 The "checked but not confirmed" entries — geology where geology is knowable
+
+The gazetteer closes with three areas it declined to populate: **Baggot
+Rocks**, **Glendo State Park** and **Flaming Gorge / Green River (WY
+side)**. Their *climbing* status is still unconfirmed and this file does
+not change that. Their *geology* is knowable, and in two cases the
+geology explains the absence.
+
+A fourth area belongs in this section for the opposite reason: **Guernsey
+State Park** is named in the gazetteer's own introduction ("Fremont
+Canyon and Guernsey's south-facing limestone climb through much of the
+winter") but has **no table row anywhere in Part III**, and it turns out
+to have a real, mapped, named route inventory. That is a gap, not a
+caveat.
+
+#### Baggot Rocks (Carbon County)
+
+*Unit:* **the Baggot Rocks Granite** — and the crag is its **type
+locality**, which is the same kind of find as Bat Cave in
+`new-mexico.md`. From the National Geologic Map Database's Geolex entry:
+the Baggot Rocks Granite is "a **massive to foliated granite cut by
+diabase dikes and pegmatite** that has the form of a **phacolith** and
+shows gradational and cross-cutting relationships to gneiss country
+rock," of Precambrian age, **2340 ± 50 Ma** on seven whole-rock Rb/Sr and
+zircon samples (Sutherland & Hausel 2004 classify it as
+Paleoproterozoic). The type locality is "**Baggot Rocks, T. 15 N.,
+R. 83 W., Carbon Co., south-central Wyoming**." In the Sierra Madre Range
+it occurs as "**mildly foliated to massive quartz monzonite and
+granite** along the east flank, with gradational to sharp cross-cutting
+contacts with older Archean augen and quartz-biotite gneiss, and forms
+**prominent rounded outcrops which contrast with the subdued topography
+of the gneiss**."
+
+*Climbing consequence, if anyone ever develops it.* "Prominent rounded
+outcrops" is the tor-and-dome habit again (§3.4, §3.7) — exfoliation
+slabs, crystal faces, and few continuous cracks. "Massive to foliated"
+warns that the fabric changes across the body: where it is foliated it
+will flake along the foliation; where it is massive it will be blank.
+Diabase dikes and pegmatite give the only reliable crack systems, since
+both weather differentially from the host granite. The Wyoming Game and
+Fish **Encampment River–Baggot Rocks public access area** is the access
+point, managed for fishing.
+
+*Status:* **geology confirmed and well dated; climbing still
+unconfirmed.** The gazetteer's caution is correct and should stand — but
+the Rock column can now say **"Baggot Rocks Granite, 2.34 Ga — the unit's
+type locality."**
+
+#### Glendo State Park
+
+*Unit:* the **Hartville uplift**, "a small mountain range with rocks
+showcasing more than **2.5 billion years** of Earth's history," with "a
+core of **Archean eugeoclinal metasedimentary and metavolcanic rock**,
+with overlying Paleozoic sedimentary rocks that **dip off the flank of
+the uplifted core**." The sedimentary section here has its own local
+names: the **Guernsey Formation** (Mississippian–Devonian) and the
+**Hartville Formation** (Pennsylvanian) above it, both carbonate and both
+famously **cherty** — "pink, dark brown, red and gray" cherts, the source
+of the agate and jasper collected around Glendo Reservoir. Fine-grained
+orthoquartzites occur in the **Morrison–Cloverly** section. The WSGS has
+published a Glendo State Park geology pamphlet.
+
+*Why there may be little climbing.* `[Inference, offered as an
+explanation rather than a finding]` A reservoir park set in gently
+dipping, cherty, thin-bedded Mississippian–Pennsylvanian carbonate and
+Cretaceous clastics is a **ledge-and-slope** landscape, not a cliff
+landscape. Nothing here is the massive 500-ft cliff-former the Madison is
+on the Bighorn rim. The census's finding — real park, no climbing
+literature — is consistent with the rock.
+
+*Status:* **climbing unconfirmed; leave as flagged.** The Rock column, if
+one is ever wanted, is **Guernsey and Hartville Formations (cherty
+Mississippian–Pennsylvanian carbonate) over an Archean core, Hartville
+uplift.**
+
+#### Flaming Gorge / Green River (Wyoming side)
+
+*Unit:* the Wyoming side of the reservoir is in **Sweetwater County**, in
+the Green River Basin, and the cliffs are **Late Cretaceous**. "The
+cliffs and spires of **Firehole Canyon** are made up of **Mancos Shale,
+Mesa Verde Sandstone, and bits of the Green River Formation**" — "nearly
+flat-lying **shale and ledge-forming sandstones** … Mancos Shale capped
+by Mesa Verde Group sandstones," producing "chimneys and pinnacles" and
+"red and white cliffs."
+
+*Why there is little climbing.* This is the clearest geological
+explanation of a blank spot in the gazetteer. **Mancos Shale does not
+hold up a wall**, and a landscape of soft shale capped by thin
+ledge-forming sandstone erodes into **hoodoos and badlands** — visually
+spectacular, structurally rotten. It is the same lithology that makes
+the Bisti and the Mancos badlands of New Mexico unclimbable
+(`new-mexico.md` §1.5). Add the **Green River Formation**, an Eocene
+**lacustrine** oil-shale-and-marlstone unit that is thin-bedded, fissile
+and weak.
+
+*Status:* **the absence of climbing here is a rock-quality fact, not a
+research gap.** The gazetteer should say so rather than merely flagging
+it, and the sentence is a good one: *the Wyoming side of Flaming Gorge is
+Mancos Shale under Mesaverde sandstone caps — hoodoo country, not crag
+country.*
+
+#### Guernsey State Park — a gap in Part III, with a named unit
+
+*Unit:* **Madison Limestone** and the **Guernsey / Hartville Formations**
+of the **Hartville uplift**. "Most of the rocks in Guernsey State Park
+are of the **Paleozoic** group but there is a wisp of **Precambrian
+metadolomite** near the very SE corner river bottom exit"; "the most
+prominent features of the park are the **bluffs of limestone and
+sandstone** that rise above the eastern half of the reservoir and along
+the river"; and Mountain Project's *Red Clove Wall* is described as
+"**perched above the Madison limestone** in the central part of the long
+red wall … east and downstream of the side canyon on the north side of
+the **North Platte River**." The WSGS has a Guernsey State Park geology
+pamphlet (WSGS 2019-IP-15) and a Hartville Uplift cultural-geology guide.
+
+*Named sectors found:* **The Red Clove Wall**, **Area 4: The Red Cloud
+Wall**, **The Center Slab**, **The Rev Wall**; routes include *Fun Hog*
+(90 ft), *Valley Forge*, *Augmented Reality*, and a *Red Zone
+Project/Toprope*.
+
+*Climbing consequence — and a genuine safety warning.* Two independent
+sources say the same thing bluntly. From Mountain Project: "**much of the
+climbing at Guernsey State Park is on fractured or otherwise unsound rock
+and is protected by home-made anchors and bolts, requiring extreme
+caution — holds and bolt placements that appear sturdy may not be.**"
+From the geology side: "there are miles of canyon walls here … but **much
+of the rock is quite shattered** and it often needs cleaning or your
+route will simply not be fit for climbing safely."
+
+That is exactly what a **small, tightly folded Laramide uplift** does to
+brittle carbonate: the Hartville uplift is a compact structure with steep
+dips, and steeply dipping, folded limestone is **fractured limestone**.
+Add a cherty unit (chert shatters where limestone bends) and you get
+shattered rock as a *structural* property of the area, not a local
+accident.
+
+*Recommendation:* **give Guernsey a table row in the gazetteer**, with
+Rock = "**Madison Limestone and Guernsey/Hartville Formation carbonate,
+Hartville uplift**," Style = "sport and toprope, home-made fixed gear,"
+and a **red hazard note**: fractured rock, non-standard anchors, helmet
+and judgement required. It is currently mentioned in the chapter
+introduction and nowhere else, which is the worst of both worlds.
