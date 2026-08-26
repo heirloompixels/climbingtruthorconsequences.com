@@ -6,9 +6,10 @@ weight = 3
 [extra]
 kicker = "Montana · The Corridor"
 lettrine = true
-rock = "Granite (west side) and limestone (east side)"
-style = "Trad and sport, per Mountain Project — specifics undocumented online"
-grades = "Unconfirmed"
+rock = "Intrusive igneous spires west, karsted limestone hills east"
+formation = "An intrusive centre in a Paleozoic carbonate section (inferred); pluton, composition and age unverified"
+style = "Trad and mixed on the spires, bolted sport in the limestone"
+grades = "5.4–5.12b at Green Canyon; the rest unconfirmed"
 season = "Likely summer through early fall (inferred, not sourced)"
 approach = "Unconfirmed"
 land = "Ownership unconfirmed — verify before a trip"
@@ -39,16 +40,63 @@ only known guidebook.
 
 {{ plate(caption="The Castle Mountains — Grasshopper, Limestone Ridge & Green Canyon") }}
 
+## The rock
+
+The Castles are two rocks half an hour apart, and the geology explains
+both the shape of the range and its name. The **eastern side is dry,
+porous limestone hills**; the **western slopes carry the "castle
+turrets," fifty-foot igneous spires** that gave the range its name. In
+between sat the Castle Mountain mining district — lead, silver and
+copper — which is the classic signature of a hot intrusion emplaced into
+carbonate country rock, because replacement ore bodies form exactly at
+that contact.
+
+So: **an intrusive centre punched into a Paleozoic carbonate section**,
+the intrusive rock standing as spires on the west, the limestone
+weathering into hills on the east. That reading rests on the described
+landscape, on the replacement ore district, and on the regional pattern
+of shallow Late Cretaceous-to-Eocene stocks and laccoliths scattered
+across central Montana — the Crazies, the Little Belts, the Highwoods,
+the Judiths, all part of one Challis-age flare-up. The specific pluton,
+its composition and its age are unverified, and the climbers' "granite"
+should be read as a field term rather than a mapped one: in this part of
+Montana the intrusive rock is as likely to be syenite, monzonite,
+diorite or quartz monzonite as true granite.
+
+That split runs straight through the climbing. **Grasshopper Rocks** is
+mostly spires on the western side — joint-bounded remnants of a shallow
+intrusion, left standing as the softer cover weathered off them — with
+small pockets of bolted limestone and bolted granite lines but "most
+routes trad or mixed protection," which is precisely what joint-bounded
+intrusive turrets give you: crack and mixed climbing on coarse,
+joint-defined faces, with grussy tops and short walk-offs. **Limestone
+Ridge** is named for its rock, on the carbonate side. And **Green
+Canyon** is limestone too — "dry, porous" being a description of karst,
+and karst meaning pockets.
+
+Which is where this page gets its one real correction. Green Canyon is
+now sourced as **"one of the prettiest limestone climbing destinations
+in the state," with over 40 developed routes from 5.4 to 5.12b** — a
+moderate-heavy limestone sport venue, and the first hard number this
+chapter has ever had. The formation is still unverified: both the Little
+Belt and Big Belt sections carry Proterozoic limestones alongside the
+Mississippian Madison, so a confident assignment cannot be made from
+here.
+
 ## Why this page is mostly blank, on purpose
 
 We looked for route names, grades, lengths and star ratings for the
-Castle Mountains and found none that would survive being printed.
-Rather than invent a chosen-moderates table to match the shape of
-every other page in this book, we're leaving it out and saying so
-directly: this is the thinnest-documented area in the Corridor, and
-what belongs here is a season of fieldwork, not a guess dressed up as
-data. If you climb here before we do, we would genuinely like to
-hear about it.
+Castle Mountains and found almost none that would survive being
+printed. The geology pass moved the line a little — Green Canyon's
+**40-plus routes from 5.4 to 5.12b** are now sourced, and that is
+enough to say a moderate climber has a reason to drive here — but not a
+single route *name* with a grade attached has surfaced for any of the
+three areas. Rather than invent a chosen-moderates table to match the
+shape of every other page in this book, we are leaving it out and
+saying so directly: this is still the thinnest-documented area in the
+Corridor, and what belongs here is a season of fieldwork, not a guess
+dressed up as data. If you climb here before we do, we would genuinely
+like to hear about it.
 
 ## Season & logistics
 

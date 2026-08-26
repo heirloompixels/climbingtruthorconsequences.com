@@ -340,4 +340,62 @@ no areas confirmed); Sitting Bull Falls climbing still unconfirmed. Two
 published age discrepancies carried rather than resolved: Kneeling Nun
 Tuff 34.9 vs 35.3 Ma, Organ batholith ~36 vs 33.7–32.8 Ma.
 
+### 18. Montana geology — completed
+Wrote `research/geology/montana.md` (3,012 lines, ~60 searches).
+`WebFetch` re-tested on two hosts, still blocked. Statewide framework
+in eleven parts: the Archean Wyoming Province and the Stillwater
+Complex; the Belt Supergroup and its four divisions; the Paleozoic
+platform and the Madison's fossil karst; the Mesozoic; Sevier and the
+Lewis Thrust; Laramide uplifts; the Boulder Batholith and the Elkhorn
+volcanics; the Idaho Batholith and the Bitterroot mylonite front;
+Absaroka and Challis magmatism; Intermountain Seismic Belt extension;
+Pleistocene ice and Glacial Lake Missoula. Then forty area entries
+covering every gazetteer row, an 11-row rock-type table, a long section
+on the Belt Supergroup's climbing personality, hazards and ethics, 22
+numbered corrections and a source list.
+
+Strongest findings:
+
+- **Hyalite is not limestone.** The rock crags are Archean gneiss
+  (Practice Rock, Crocodile Rock) and the Magic Wall is Eocene
+  volcanic; the ice forms on the **Hyalite Peak Volcanics** because
+  permeable lahar beds alternate with impermeable lava flows, forcing
+  spring lines out partway up the cliffs. That permeability contrast is
+  why there are 300+ ice routes in three square miles.
+- **Memorial Falls is not limestone** — it is the **Neihart
+  Formation**, ~1.45 Ga quartzitic sandstone at the very base of the
+  Belt; the falls are ~12,000 years old.
+- **The Belt paradox answered:** Stone Hill quartzite (hardness 6–7,
+  strength in three dimensions, bolts hold outstandingly) versus
+  Glacier argillite (hardness 2–3, mm-scale couplets, pervasive
+  partings). Best sentence found: in Glacier a cam between two
+  argillite tiers has a failure cone bounded by the bedding plane, not
+  the gear. Rule: in the Belt, ask which *formation*.
+- **Maiden Rock is real and is limestone**, not batholith granite:
+  200+ routes, 5.12–5.13-heavy, six miles south of Divide.
+- **Mill Creek (Lolo) is misnamed and understated** — it is the
+  Bitterroot Mill Creek north of Hamilton, 1,000-ft granitic-gneiss
+  walls, 10–12-pitch routes; the "tick-heavy" note traces to the Tick
+  Farm and its Forest Service bolting moratorium.
+- **The Crazies' lack of roped climbing is explained**: Eocene
+  intrusions cooled fast inside cold wet Fort Union shale, so the
+  range is closely jointed and shattered.
+- **Mount Maurice / 2021 wildfire was filed under the Bridgers**; it is
+  Red Lodge, 180 miles away (Robertson Draw Fire, 29,885 acres).
+
+Carried into `content/` this session: all of the above, plus Blue
+Cloud, Indian Creek, Trout Creek Canyon and Bass Creek Crags promoted
+or added as rows; Allenspur given dolomite and a concrete access route;
+Red Lodge split into its two bands; Stone Hill's count updated to 650+
+routes; Green Canyon's 5.4–5.12b range put into the White Sulphur
+Springs page, which had no grades at all before.
+
+Stayed unverified: every crag-to-unit assignment not directly quoted;
+the Big Belt gulches' formation (Madison vs. Belt Newland — a 1.1-Gyr
+difference); Stone Hill's, Maiden Rock's and Allenspur's formations;
+the Castles' intrusive composition and age; Bear Canyon's sandstone;
+Sheep Mountain's and Blue Cloud's specific plutons; two carried age
+discrepancies; Pattee Canyon; Sinbad's Fortress; and any
+Montana-specific raptor-closure list.
+
 *(Log updated as agents report.)*

@@ -6,7 +6,9 @@ weight = 1
 [extra]
 kicker = "Montana · The Corridor"
 lettrine = true
-rock = "Madison limestone"
+rock = "Limestone — massive, well-weathered grey-blue where it is good"
+formation = "Madison Group; Mission Canyon Limestone the likely cliff-former (inferred)"
+rock_age = "Mississippian, ~340 Ma"
 style = "Mostly bolted multipitch sport, with looser trad in Rocky Canyon"
 grades = "5.8–5.12, skewing hard at Wolverine Bowl"
 season = "Mid/late June–early October at altitude"
@@ -34,6 +36,48 @@ walls run friable and loose in places, a real caution rather than a
 formality.
 
 {{ plate(caption="The Bridger Range — Ross Peak, Wolverine Bowl & Rocky Canyon") }}
+
+## The rock
+
+The Bridgers' reputation — quality running "from extremely good to
+extremely poor" — is a stratigraphic fact rather than a matter of luck.
+The range is the surface expression of the **Bridger arch**, a Laramide
+basement-cored uplift whose cover was buckled up over a large thrust
+fault; it exposes something like 27,000 feet of sedimentary rock,
+Mesoproterozoic Belt Supergroup at the bottom through the Cretaceous at
+the top, tilted and faulted so that the resistant beds crop out as a
+discontinuous band of cliffs along fifty miles of skyline. That band is
+the **Madison Group**, Mississippian limestone laid down in a warm
+shallow sea around 340 million years ago, and Ross Peak is explicitly
+built of it. Walk the ridge to Sacagawea Peak and you descend through
+the whole Devonian and Cambrian section beneath — Sappington, Three
+Forks, Jefferson, Maywood, then Snowy Range, Pilgrim, Park, Meagher,
+Wolsey, Flathead — and finally onto Archean basement. **The Bridgers
+are not one rock; they are fourteen**, and which one you have tied in
+under decides your day.
+
+Where a crag sits in the massive upper Madison — the **Mission Canyon
+Limestone** — the rock is the good end. That is Wolverine Bowl, whose
+"stunning, well-weathered blue" limestone *Outside Bozeman* calls the
+best around: steep, technical, sharp-edged and pocketed, because
+rainwater etches the matrix out from between fossil fragments and
+dissolves along micro-joints until what is left is incut and crystalline.
+It is superb and it shreds skin. Where a crag sits lower in the Madison,
+in the thin-bedded **Lodgepole** with its shale partings, or down in the
+Cambrian band, you get the friable, ledgy, kitty-litter rock that Rocky
+Canyon is warned about. Both readings of the range are correct; they are
+just different beds. (Member-level assignments here are inferred from
+the range's mapped stratigraphy and the described character of the
+cliffs, not read off a sheet at the crag.)
+
+Two practical consequences. Bedded carbonate fails along its bedding, so
+what comes off a Bridger cliff is a **plate**, and it comes off the
+horizontal, not the vertical — distrust horizontal gear, and never climb
+directly under another party. And at 8,000 to 9,600 feet, freeze–thaw
+works every parting in the rock all winter: **early-season rock is the
+most dangerous rock of the year here**, and everything the winter
+loosened is still sitting there in June, when the crags first come into
+condition.
 
 ## Why we come, and what we don't yet know
 
