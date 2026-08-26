@@ -1,6 +1,6 @@
 +++
 title = "Wyoming"
-description = "A strange, ranging catalog of rock — pocketed limestone at Lander, sandbagged granite offwidths at Vedauwoo, and a laccolithic plug of columnar stone rising alone from the grassland."
+description = "A strange, ranging catalog of rock — pocketed limestone at Lander, sandbagged granite offwidths at Vedauwoo, and a columnar phonolite tower rising alone from the grassland."
 weight = 3
 
 [extra]
@@ -14,8 +14,10 @@ pocketed, steep sport climbing that draws destination traffic every
 summer. In the southeast corner, Sherman Granite erupts into the
 wind-scoured domes of Vedauwoo, a wide-crack and offwidth proving
 ground unlike almost anywhere else in the country. Devils Tower rises
-alone out of the Black Hills grassland, a laccolithic plug fluted into
-parallel cracks that has drawn crack climbers since 1937. To the west,
+alone out of the Black Hills grassland, an Eocene phonolite intrusion
+fluted into parallel cracks that has drawn crack climbers since 1937 —
+how it was emplaced has been argued for over a century, so we no longer
+call it a laccolith outright. To the west,
 the Wind River Range and the Tetons carry some of the best alpine
 granite in the Lower 48. Casper and Cody add canyon and gorge climbing
 on granite and limestone respectively, and Cody's South Fork of the
