@@ -1,0 +1,530 @@
+/* Climbing Truth or Consequences — a guidebook set in the manner of
+   Aubrey Beardsley: black ink on cream paper, large flat masses of black
+   balanced against whitespace, sinuous line, ornament at the chapter head
+   and restraint in the data. One accent — the mustard of The Yellow Book.
+   No JavaScript anywhere. */
+
+:root {
+    --paper:  #f5eedf;
+    --ink:    #171310;
+    --black:  #100d0b;   /* flat masses: masthead, cover frame fills */
+    --muted:  #756753;
+    --rule:   #d8c9ae;
+    --accent: #9d7b1c;   /* Yellow Book mustard, inked down */
+    --paper-raised: #efe5d0;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --paper:  #131009;
+        --ink:    #e9ddc4;
+        --black:  #0b0906;
+        --muted:  #9c8d72;
+        --rule:   #3a3020;
+        --accent: #cfa93c;
+        --paper-raised: #1a1610;
+    }
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "EB Garamond", ui-serif, Georgia, "Times New Roman", serif;
+    font-size: 19px;
+    line-height: 1.6;
+}
+
+.skip {
+    position: absolute;
+    left: -999px;
+    top: 0;
+    background: var(--black);
+    color: var(--paper);
+    padding: 0.5rem 1rem;
+    z-index: 10;
+}
+.skip:focus { left: 0; }
+
+a {
+    color: inherit;
+    text-decoration-color: var(--rule);
+    text-underline-offset: 0.22em;
+}
+a:hover, a:focus-visible {
+    color: var(--accent);
+    text-decoration-color: currentColor;
+}
+
+/* ---------- masthead: a flat black band, cream lettering, a vine ---------- */
+
+.masthead {
+    background: var(--black);
+    color: #efe5d0;
+    padding: 1.4rem 1.5rem 0;
+    text-align: center;
+}
+
+.masthead-inner { max-width: 64rem; margin: 0 auto; }
+
+.wordmark {
+    display: inline-block;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(1.3rem, 4vw, 1.9rem);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 1.2;
+}
+.wordmark .amp { font-weight: 400; font-style: italic; text-transform: none; letter-spacing: 0.02em; }
+.wordmark:hover, .wordmark:focus-visible { color: var(--accent); }
+
+.masthead .vine {
+    display: block;
+    width: min(28rem, 80%);
+    height: 16px;
+    margin: 0.5rem auto 0;
+    opacity: 0.85;
+}
+
+.siteroll {
+    margin-top: 0.55rem;
+    padding: 0.55rem 0 0.7rem;
+    border-top: 1px solid rgba(239, 229, 208, 0.25);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4rem 1.6rem;
+}
+.siteroll a {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.siteroll a:hover, .siteroll a:focus-visible { color: var(--accent); }
+
+/* ---------- cover / frontispiece ---------- */
+
+.cover {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: clamp(1rem, 4vw, 3rem) 1rem;
+}
+
+.cover-frame {
+    max-width: 40rem;
+    width: 100%;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    text-align: center;
+    border: 3px solid var(--ink);
+    outline: 1px solid var(--ink);
+    outline-offset: 5px;
+    padding: clamp(1.8rem, 6vw, 3.5rem) clamp(1.2rem, 5vw, 3rem);
+    background:
+        linear-gradient(var(--paper), var(--paper)) padding-box;
+}
+
+.place {
+    margin: 0 0 1.6rem;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+.cover-title {
+    margin: 0 0 0.6rem;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(2.1rem, 8vw, 3.4rem);
+    line-height: 1.06;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-wrap: balance;
+}
+.cover-title .amp {
+    font-style: italic;
+    font-weight: 400;
+    text-transform: lowercase;
+    color: var(--accent);
+}
+
+.cover-sub {
+    margin: 0.4rem auto 2rem;
+    max-width: 30rem;
+    font-style: italic;
+    font-size: 1.05rem;
+    color: var(--muted);
+    text-wrap: pretty;
+}
+
+.contents-label {
+    margin: 0 0 0.8rem;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--accent);
+}
+
+.cover-contents { margin: 0 0 1rem; }
+.cover-contents ol { list-style: none; margin: 0; padding: 0; }
+.cover-contents li { margin: 0 0 0.9rem; }
+.cover-contents a { text-decoration: none; display: block; }
+.cover-contents .c-num {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    color: var(--accent);
+    margin-right: 0.3rem;
+}
+.cover-contents .c-name {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    letter-spacing: 0.04em;
+}
+.cover-contents a:hover .c-name, .cover-contents a:focus-visible .c-name {
+    color: var(--accent);
+}
+.cover-contents .c-desc {
+    display: block;
+    font-style: italic;
+    font-size: 0.92rem;
+    color: var(--muted);
+}
+
+.status {
+    margin: 1.6rem 0 0.5rem;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 0.8rem;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--accent);
+}
+
+.contact { margin: 0; font-size: 0.9rem; color: var(--muted); }
+
+/* ---------- ornaments ---------- */
+
+.ornament {
+    display: flex;
+    justify-content: center;
+    margin: 1.6rem 0;
+    color: var(--ink);
+}
+.ornament svg { max-width: 100%; height: auto; }
+.tailpiece { margin-top: 3rem; opacity: 0.9; }
+
+/* ---------- chapter pages ---------- */
+
+.chapter {
+    max-width: 46rem;
+    margin: 0 auto;
+    padding: clamp(2rem, 5vw, 3.5rem) 1.25rem 4rem;
+    min-width: 0;
+}
+
+.crumbs {
+    margin: 0 0 1.8rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+    text-align: center;
+    letter-spacing: 0.04em;
+}
+.crumbs a { text-decoration: none; }
+.crumbs a:hover, .crumbs a:focus-visible { color: var(--accent); text-decoration: underline; }
+.crumbs .sep { margin: 0 0.45rem; color: var(--accent); }
+.crumbs .here { font-style: italic; }
+
+.chapter-head { text-align: center; }
+
+.kicker {
+    margin: 0 0 0.8rem;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--accent);
+}
+
+.chapter h1 {
+    margin: 0 0 0.7rem;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(2rem, 7vw, 3rem);
+    line-height: 1.08;
+    letter-spacing: 0.01em;
+    text-wrap: balance;
+}
+
+.lede {
+    margin: 0 auto;
+    max-width: 34rem;
+    font-style: italic;
+    font-size: 1.08rem;
+    color: var(--muted);
+    text-wrap: pretty;
+}
+
+/* ---------- spec card ---------- */
+
+.spec {
+    margin: 0 0 2rem;
+    padding: 1rem 1.2rem;
+    border-top: 3px solid var(--ink);
+    border-bottom: 1px solid var(--ink);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    gap: 0.8rem 2rem;
+    text-align: left;
+    background: var(--paper-raised);
+}
+.spec > div { min-width: 0; }
+.spec dt {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 0.7rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+.spec dd { margin: 0.1rem 0 0; font-size: 0.98rem; }
+.stars { color: var(--accent); letter-spacing: 0.12em; }
+
+/* ---------- prose ---------- */
+
+.prose { text-wrap: pretty; }
+
+.prose.lettrine > p:first-of-type::first-letter {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 700;
+    float: left;
+    font-size: 3.6em;
+    line-height: 0.82;
+    padding: 0.06em 0.12em 0 0;
+    color: var(--accent);
+}
+
+.prose h2 {
+    margin: 2.4rem 0 0.8rem;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 1.55rem;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+.prose h2::after {
+    content: "";
+    display: block;
+    width: 4rem;
+    height: 2px;
+    margin: 0.45rem auto 0;
+    background: var(--accent);
+}
+
+.prose h3 {
+    margin: 1.9rem 0 0.5rem;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 1.22rem;
+    letter-spacing: 0.05em;
+}
+
+.prose h4 {
+    margin: 1.4rem 0 0.4rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+.prose blockquote {
+    margin: 1.6rem 0;
+    padding: 0.2rem 0 0.2rem 1.2rem;
+    border-left: 3px solid var(--accent);
+    font-style: italic;
+    color: var(--muted);
+}
+
+.prose hr {
+    border: none;
+    text-align: center;
+    margin: 2.2rem 0;
+}
+.prose hr::after {
+    content: "❦";
+    color: var(--accent);
+    font-size: 1.2rem;
+}
+
+.prose ul, .prose ol { padding-left: 1.4rem; }
+.prose li { margin-bottom: 0.3rem; }
+.prose li::marker { color: var(--accent); }
+
+.prose code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 0.85em;
+    background: var(--paper-raised);
+    padding: 0.08em 0.3em;
+}
+
+/* Tables: guidebook data — hairline rules, small-caps heads, no ornament. */
+.prose table {
+    width: 100%;
+    margin: 1.4rem 0 2rem;
+    border-collapse: collapse;
+    font-size: 0.92rem;
+    line-height: 1.45;
+}
+.prose thead th {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 0.72rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    text-align: left;
+    color: var(--muted);
+    border-top: 3px solid var(--ink);
+    border-bottom: 1px solid var(--ink);
+    padding: 0.5rem 0.7rem 0.4rem 0;
+}
+.prose td {
+    vertical-align: top;
+    border-bottom: 1px solid var(--rule);
+    padding: 0.45rem 0.7rem 0.45rem 0;
+    font-variant-numeric: lining-nums tabular-nums;
+}
+.prose tbody tr:last-child td { border-bottom: 2px solid var(--ink); }
+
+/* Wide tables scroll inside themselves, never the page. */
+.prose { overflow-wrap: anywhere; }
+.prose table { display: block; overflow-x: auto; }
+
+/* ---------- contents lists (section pages) ---------- */
+
+.toc { margin: 1.5rem 0 0; }
+.toc ol { list-style: none; margin: 0; padding: 0; }
+.toc li { border-bottom: 1px solid var(--rule); }
+.toc li:first-child { border-top: 3px solid var(--ink); }
+.toc a {
+    display: block;
+    padding: 0.85rem 0.2rem;
+    text-decoration: none;
+}
+.toc .c-name {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+    letter-spacing: 0.03em;
+}
+.toc a:hover .c-name, .toc a:focus-visible .c-name { color: var(--accent); }
+.toc .c-grade {
+    font-size: 0.85rem;
+    color: var(--accent);
+    margin-left: 0.4rem;
+    white-space: nowrap;
+}
+.toc .c-desc {
+    display: block;
+    font-style: italic;
+    font-size: 0.92rem;
+    color: var(--muted);
+}
+
+/* ---------- plates (reserved illustrations) ---------- */
+
+.plate { margin: 2rem 0; }
+.plate-frame {
+    border: 3px solid var(--ink);
+    outline: 1px solid var(--ink);
+    outline-offset: 4px;
+    margin: 0 0 0.6rem;
+    padding: 2.2rem 1.2rem;
+    text-align: center;
+    color: var(--muted);
+    background: var(--paper-raised);
+}
+.plate-frame svg { opacity: 0.7; }
+.plate-frame p {
+    margin: 0.8rem 0 0;
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+}
+.plate-frame p span { text-transform: none; letter-spacing: 0.02em; font-weight: 400; font-style: italic; }
+.plate figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.92rem;
+    color: var(--muted);
+}
+
+/* ---------- pager & footer ---------- */
+
+.pager {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--rule);
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    font-size: 0.95rem;
+}
+.pager a { text-decoration: none; font-style: italic; }
+.pager a:hover, .pager a:focus-visible { color: var(--accent); }
+.pager .next { margin-left: auto; }
+
+.colophon {
+    background: var(--black);
+    color: #cfc2a6;
+    text-align: center;
+    padding: 0 1.5rem 2.2rem;
+    font-size: 0.9rem;
+}
+.colophon .vine {
+    display: block;
+    width: min(28rem, 80%);
+    height: 16px;
+    margin: 0 auto 1.4rem;
+    opacity: 0.85;
+    padding-top: 1.4rem;
+}
+.colophon-title {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 600;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: #efe5d0;
+    margin: 0 0 0.8rem;
+}
+.colophon p { max-width: 38rem; margin: 0 auto 0.7rem; }
+.colophon-warn { font-style: italic; opacity: 0.8; }
+.colophon a { color: inherit; }
+.colophon a:hover, .colophon a:focus-visible { color: var(--accent); }
+
+@media print {
+    .masthead, .colophon, .pager, .skip { display: none; }
+    body { background: #fff; color: #000; }
+}
