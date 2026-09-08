@@ -77,6 +77,15 @@ what's coming.
 - [x] Part III content pages (four state gazetteers, 143 area rows)
 - [x] Final pass: clean build, spec-card layout fix, screenshot
       review of cover, chapter, crag, and census pages
+- [x] Geology pass — New Mexico: `research/geology/new-mexico.md`,
+      geology sections on every Part I crag page and the Part I intro,
+      Tres Piedras, the NM gazetteer (framework, rock-type table,
+      regional paragraphs, formation-level Rock cells), and a
+      "Reading the rock" section in Part IV. Spec card gained
+      `formation` and `rock_age` fields.
+- [ ] Geology pass — Montana, then Wyoming, then Colorado: one
+      research file per state under `research/geology/`, then the same
+      treatment of the corridor pages and the state gazetteers.
 
 ### Next round (future sessions)
 

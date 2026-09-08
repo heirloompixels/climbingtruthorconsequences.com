@@ -6,7 +6,9 @@ weight = 2
 [extra]
 kicker = "Montana · The Corridor"
 lettrine = true
-rock = "Limestone"
+rock = "Limestone — pocketed, karsted, high quality"
+formation = "Madison Group, probably the Mission Canyon Limestone (inferred; Belt-age Newland Formation is the alternative)"
+rock_age = "Mississippian, ~340–325 Ma (if Madison)"
 style = "Predominantly bolted sport, with a handful of trad lines"
 grades = "5.4–5.10b confirmed at Nude Beach; the rest of the canyon unconfirmed"
 season = "Summer is best; some sources describe year-round climbing"
@@ -29,6 +31,47 @@ limestone — the two should not be confused, even though a trip often
 covers both.
 
 {{ plate(caption="Avalanche Gulch — approach road and crag cluster") }}
+
+## The rock
+
+The Big Belts are a compound uplift inside the **Helena salient**, the
+eastward bulge of the Sevier thrust belt: a Belt Supergroup core with
+the Paleozoic section dipping off its western flank, and the developed
+gulches — Avalanche, Hellgate, Beaver Creek, Trout Creek — all cut into
+that flank. The limestone is therefore **most probably the Mississippian
+Madison Group, with the massive Mission Canyon Limestone as the
+cliff-former**. Three things point that way: the structure; the **Gates
+of the Mountains** gorge a short distance north, in the same structural
+package, which is explicitly mapped as Mission Canyon; and the climbers'
+own description of *pocketed* limestone, which fits the karsted Mission
+Canyon far better than the recrystallised Proterozoic limestone of the
+Belt. The alternative is not excluded — if these cliffs are Newland
+Formation limestone instead, the rock is not 340 million years old but
+1,450 million. We have not read a sheet, so we flag it rather than
+settle it.
+
+Assume Madison and the climbing makes sense. In the late Mississippian
+the upper Madison was lifted above sea level and **karsted** — dissolved,
+cavernous, riddled with solution voids and collapse breccias — before
+being buried again. That fossil karst is why Montana limestone gives
+**pockets** as its primary hold, with jugs where a vug has collapsed or
+a bedding parting has opened, and sharp incut edges everywhere between.
+It is also why the crag stays wet: karst drains *through* the rock
+rather than off it, so a shaded gulch can weep for days after the
+hillside above looks dry, with seeps at bedding partings. That same
+shade — "the complex canyon creates shade," as one source puts it — is
+what makes Avalanche a summer venue in a state where most limestone
+bakes.
+
+The difference between Avalanche and Hellgate next door is a difference
+in how deeply each gulch has cut into the massive unit: Avalanche is the
+moderate canyon, Hellgate the steeper one with the bigger, more exposed
+pocketed walls. Sound Mission Canyon takes stainless expansion bolts
+well, which is consistent with a well-organised sport canyon whose
+developers tag their routes at the first bolt. The hazards are the
+ordinary limestone ones — the occasional block released along a bedding
+plane, rockfall off the rim — plus the OHV traffic that every source
+mentions.
 
 ## Why we come, and what we don't yet know
 

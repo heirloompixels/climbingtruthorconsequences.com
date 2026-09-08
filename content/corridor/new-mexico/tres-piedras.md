@@ -6,7 +6,9 @@ weight = 1
 [extra]
 kicker = "New Mexico · The Corridor"
 lettrine = true
-rock = "Granite (Tres Piedras Orthogneiss, ~1.7 billion years old)"
+rock = "Granite — properly an orthogneiss: squeezed alkali feldspar granite"
+formation = "Tres Piedras Orthogneiss"
+rock_age = "Paleoproterozoic, 1693 Ma (U-Pb)"
 style = "Trad — friction slabs, splitter cracks; some bolted faces"
 grades = "5.4–5.13"
 season = "Fall through spring; summer runs hot on exposed faces"
@@ -32,6 +34,41 @@ Land here is mostly Carson National Forest, with one small private
 corner in the southwest that the landowner has historically tolerated
 climbing on, waiver requested — worth confirming before you rely on
 it. A raptor closure runs roughly mid-February through late May.
+
+## The rock
+
+Climbers call Tres Piedras granite. A geologist calls it **orthogneiss**,
+and both are being fair: it is granite that has been squeezed. The
+**Tres Piedras Orthogneiss** is dated by U-Pb to **1693 Ma** — a pluton
+intruded, on the best reading, as the Yavapai arc docked against the
+growing southwestern edge of the continent, and then deformed and
+foliated some quarter of a billion years later, probably during the
+1.45 Ga granite event that also built the Sandias. It is pink to
+reddish-orange, faintly to obviously foliated, grain size half a
+millimetre to five, and modally about **42% quartz, 40% microcline and
+12% albite** — the composition of an alkali feldspar granite. That high
+quartz content, set in coarse feldspar, is where the friction comes
+from, and the friction is why this is a slab area.
+
+The foliation is the thing to watch, because a foliated rock carries a
+built-in plane of weakness. Sheets and flakes part along it, which is
+generous — it is what gives Tres Piedras its **flake cracks** alongside
+the splitters — and it is also where the loose blocks come from. The
+other jointing that matters on a 200-foot dome is **sheeting**: unloading
+joints that open parallel to the dome's surface as erosion takes the
+weight of the overburden off. That is the classic dome architecture,
+slabs and detached flakes rather than the columns and corners a lava
+crag gives you, and it is the same process that shaped Sugarloaf in the
+Organs six hours south.
+
+The setting is the western shoulder of the **Rio Grande rift**: the
+Tusas Mountains give out here into the gorge country, and the rift's
+flank uplift is what lifted this basement to 8,000 feet and stripped the
+cover off it. Drive twenty minutes east and you drop off Proterozoic
+granite onto the **Servilleta Basalt** of the Taos Plateau — 240 metres
+of Pliocene flood basalt that the Rio Grande has trenched. Two of New
+Mexico's great climbing rocks, 1.7 billion years apart, inside a single
+tank of gas.
 
 ## Chosen moderates
 
